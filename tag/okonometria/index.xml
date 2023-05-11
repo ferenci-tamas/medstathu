@@ -1,0 +1,899 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ökonometria | Ferenci Tamás honlapja</title><link>https://tamas-ferenci.github.io/medstat/tag/okonometria/</link><atom:link href="https://tamas-ferenci.github.io/medstat/tag/okonometria/index.xml" rel="self" type="application/rss+xml"/><description>Ökonometria</description><generator>Wowchemy (https://wowchemy.com)</generator><language>hu</language><lastBuildDate>Tue, 09 May 2023 00:00:00 +0000</lastBuildDate><image><url>https://tamas-ferenci.github.io/medstat/media/sharing.png</url><title>Ökonometria</title><link>https://tamas-ferenci.github.io/medstat/tag/okonometria/</link></image><item><title>Idősorelemzés</title><link>https://tamas-ferenci.github.io/medstat/oktatas/idosorelemzes/</link><pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate><guid>https://tamas-ferenci.github.io/medstat/oktatas/idosorelemzes/</guid><description>
+&lt;div class="media stream-item view-compact">
+&lt;div class="media-body">
+&lt;div class="section-subheading article-title mb-0 mt-0">
+&lt;a href="https://tamas-ferenci.github.io/medstat/medstat/oktatas_fejezetek/idosorelemzes_fejezetek/alapok/" >Az idősorelemzés alapjai&lt;/a>
+&lt;/div>
+&lt;a href="https://tamas-ferenci.github.io/medstat/medstat/oktatas_fejezetek/idosorelemzes_fejezetek/alapok/" class="summary-link">
+&lt;div class="article-style">
+Megbeszéljük, hogy mit jelent az idősor fogalma, hogy az idősorok elemzésének mi a fő kihívása (összevetésben a keresztmetszeti adatok elemzésével), és röviden beszélünk az idősorok jellemzőiről.
+&lt;/div>
+&lt;/a>
+&lt;div class="stream-meta article-metadata">
+&lt;div class="article-metadata">
+&lt;div>
+&lt;span >
+Ferenci Tamás&lt;/span>
+&lt;/div>
+&lt;span class="article-date">
+2023. május 6.
+&lt;/span>
+&lt;/div>
+&lt;/div>
+&lt;div class="btn-links">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://tamas-ferenci.github.io/medstat/medstat/oktatas/Idosorelemzes/FerenciTamas_Idosorelemzes_AzIdosorelemzesAlapjai_slides.pdf" >
+Diasor (slides)&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://tamas-ferenci.github.io/medstat/medstat/oktatas/Idosorelemzes/FerenciTamas_Idosorelemzes_AzIdosorelemzesAlapjai_handout.pdf" >
+Diasor (handout)&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://tamas-ferenci.github.io/medstat/medstat/oktatas/Idosorelemzes/FerenciTamas_Idosorelemzes_AzIdosorelemzesAlapjai_lecturenote.pdf" >
+Diasor (lecturenote)&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.youtube.com/playlist?list=PLqdN24UCw5hnW-F7iIFl7xCZz8IbyU5Kw" target="_blank" rel="noopener">
+Videó&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="ml-3">
+&lt;/div>
+&lt;/div>
+&lt;div class="media stream-item view-compact">
+&lt;div class="media-body">
+&lt;div class="section-subheading article-title mb-0 mt-0">
+&lt;a href="https://tamas-ferenci.github.io/medstat/medstat/oktatas_fejezetek/idosorelemzes_fejezetek/determinisztikus/" >Determinisztikus idősorelemzés, dekompozíciós idősormodellek: trend, szezonalitás és ciklus&lt;/a>
+&lt;/div>
+&lt;a href="https://tamas-ferenci.github.io/medstat/medstat/oktatas_fejezetek/idosorelemzes_fejezetek/determinisztikus/" class="summary-link">
+&lt;div class="article-style">
+Megnézzük a determinisztikus idősorelemzési filozófia alapjait, és megvizsgáljuk a legfontosabb példát rá: a dekompozíciós idősormodelleket. Ennek kapcsán megbeszéljük a trend, a szezonalitás és a ciklus fogalmát.
+&lt;/div>
+&lt;/a>
+&lt;div class="stream-meta article-metadata">
+&lt;div class="article-metadata">
+&lt;div>
+&lt;span >
+Ferenci Tamás&lt;/span>
+&lt;/div>
+&lt;span class="article-date">
+2023. május 6.
+&lt;/span>
+&lt;/div>
+&lt;/div>
+&lt;div class="btn-links">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://tamas-ferenci.github.io/medstat/medstat/oktatas/Idosorelemzes/FerenciTamas_Idosorelemzes_DeterminisztikusIdosorelemzesDekompoziciosIdosormodellek_slides.pdf" >
+Diasor (slides)&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://tamas-ferenci.github.io/medstat/medstat/oktatas/Idosorelemzes/FerenciTamas_Idosorelemzes_DeterminisztikusIdosorelemzesDekompoziciosIdosormodellek_handout.pdf" >
+Diasor (handout)&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://tamas-ferenci.github.io/medstat/medstat/oktatas/Idosorelemzes/FerenciTamas_Idosorelemzes_DeterminisztikusIdosorelemzesDekompoziciosIdosormodellek_lecturenote.pdf" >
+Diasor (lecturenote)&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.youtube.com/playlist?list=PLqdN24UCw5hmlo5jtlGJUw8ohCE0jJ61i" target="_blank" rel="noopener">
+Videó&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="ml-3">
+&lt;/div>
+&lt;/div>
+&lt;div class="media stream-item view-compact">
+&lt;div class="media-body">
+&lt;div class="section-subheading article-title mb-0 mt-0">
+&lt;a href="https://tamas-ferenci.github.io/medstat/medstat/oktatas_fejezetek/idosorelemzes_fejezetek/szures/" >Idősorok szűrése&lt;/a>
+&lt;/div>
+&lt;a href="https://tamas-ferenci.github.io/medstat/medstat/oktatas_fejezetek/idosorelemzes_fejezetek/szures/" class="summary-link">
+&lt;div class="article-style">
+Megnézzük mit értünk idősorok szűrésén, és közelebbről megvizsgáljuk két klasszikus eszközét, a mozgóátlagolást és a Hodrick-Prescott (HP) szűrőt.
+&lt;/div>
+&lt;/a>
+&lt;div class="stream-meta article-metadata">
+&lt;div class="article-metadata">
+&lt;div>
+&lt;span >
+Ferenci Tamás&lt;/span>
+&lt;/div>
+&lt;span class="article-date">
+2023. május 6.
+&lt;/span>
+&lt;/div>
+&lt;/div>
+&lt;div class="btn-links">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://tamas-ferenci.github.io/medstat/medstat/oktatas/Idosorelemzes/FerenciTamas_Idosorelemzes_IdosorokSzurese_slides.pdf" >
+Diasor (slides)&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://tamas-ferenci.github.io/medstat/medstat/oktatas/Idosorelemzes/FerenciTamas_Idosorelemzes_IdosorokSzurese_handout.pdf" >
+Diasor (handout)&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://tamas-ferenci.github.io/medstat/medstat/oktatas/Idosorelemzes/FerenciTamas_Idosorelemzes_IdosorokSzurese_lecturenote.pdf" >
+Diasor (lecturenote)&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.youtube.com/playlist?list=PLqdN24UCw5hkYrjcAsTi9Sjq4Qotf-rfH" target="_blank" rel="noopener">
+Videó&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="ml-3">
+&lt;/div>
+&lt;/div>
+&lt;div class="media stream-item view-compact">
+&lt;div class="media-body">
+&lt;div class="section-subheading article-title mb-0 mt-0">
+&lt;a href="https://tamas-ferenci.github.io/medstat/medstat/oktatas_fejezetek/idosorelemzes_fejezetek/stacionaritas/" >A stacionaritás és az ergodicitás fogalma&lt;/a>
+&lt;/div>
+&lt;a href="https://tamas-ferenci.github.io/medstat/medstat/oktatas_fejezetek/idosorelemzes_fejezetek/stacionaritas/" class="summary-link">
+&lt;div class="article-style">
+Megismerkedünk az erős és a gyenge értelmű stacionaritás fogalmával, és röviden kitérünk az ergodicitás kérdésére is.
+&lt;/div>
+&lt;/a>
+&lt;div class="stream-meta article-metadata">
+&lt;div class="article-metadata">
+&lt;div>
+&lt;span >
+Ferenci Tamás&lt;/span>
+&lt;/div>
+&lt;span class="article-date">
+2023. május 6.
+&lt;/span>
+&lt;/div>
+&lt;/div>
+&lt;div class="btn-links">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://tamas-ferenci.github.io/medstat/medstat/oktatas/Idosorelemzes/FerenciTamas_Idosorelemzes_AStacionaritasEsAzErgodicitasFogalma_slides.pdf" >
+Diasor (slides)&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://tamas-ferenci.github.io/medstat/medstat/oktatas/Idosorelemzes/FerenciTamas_Idosorelemzes_AStacionaritasEsAzErgodicitasFogalma_handout.pdf" >
+Diasor (handout)&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://tamas-ferenci.github.io/medstat/medstat/oktatas/Idosorelemzes/FerenciTamas_Idosorelemzes_AStacionaritasEsAzErgodicitasFogalma_lecturenote.pdf" >
+Diasor (lecturenote)&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.youtube.com/playlist?list=PLqdN24UCw5hkyoJD92W3zhz8CEDLuH-qN" target="_blank" rel="noopener">
+Videó&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="ml-3">
+&lt;/div>
+&lt;/div>
+&lt;div class="media stream-item view-compact">
+&lt;div class="media-body">
+&lt;div class="section-subheading article-title mb-0 mt-0">
+&lt;a href="https://tamas-ferenci.github.io/medstat/medstat/oktatas_fejezetek/idosorelemzes_fejezetek/sztochasztikus/" >A sztochasztikus idősormodellezési filozófia, és alapelemei: a fehérzaj-, az AR-, az MA- és ARMA-folyamatok&lt;/a>
+&lt;/div>
+&lt;a href="https://tamas-ferenci.github.io/medstat/medstat/oktatas_fejezetek/idosorelemzes_fejezetek/sztochasztikus/" class="summary-link">
+&lt;div class="article-style">
+A sztochasztikus és a determinisztikus értelemben vett trend összehasonlítása révén megtárgyaljuk, hogy mit jelent a sztochasztikus idősormodellezési filozófia, majd megvizsgáljuk legfontosabb idősormodelljeit: a fehérzaj-, az autoregresszív- (AR), a mozgóátlag- (MA) és az ARMA-folyamatokat.
+&lt;/div>
+&lt;/a>
+&lt;div class="stream-meta article-metadata">
+&lt;div class="article-metadata">
+&lt;div>
+&lt;span >
+Ferenci Tamás&lt;/span>
+&lt;/div>
+&lt;span class="article-date">
+2023. május 6.
+&lt;/span>
+&lt;/div>
+&lt;/div>
+&lt;div class="btn-links">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://tamas-ferenci.github.io/medstat/medstat/oktatas/Idosorelemzes/FerenciTamas_Idosorelemzes_ASztochasztikusIdosormodellezesiFilozofiaEsAlapelemei_slides.pdf" >
+Diasor (slides)&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://tamas-ferenci.github.io/medstat/medstat/oktatas/Idosorelemzes/FerenciTamas_Idosorelemzes_ASztochasztikusIdosormodellezesiFilozofiaEsAlapelemei_handout.pdf" >
+Diasor (handout)&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://tamas-ferenci.github.io/medstat/medstat/oktatas/Idosorelemzes/FerenciTamas_Idosorelemzes_ASztochasztikusIdosormodellezesiFilozofiaEsAlapelemei_lecturenote.pdf" >
+Diasor (lecturenote)&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.youtube.com/playlist?list=PLqdN24UCw5hn7Z3eCcfz9OwRq2emdtBDL" target="_blank" rel="noopener">
+Videó&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="ml-3">
+&lt;/div>
+&lt;/div>
+&lt;div class="media stream-item view-compact">
+&lt;div class="media-body">
+&lt;div class="section-subheading article-title mb-0 mt-0">
+&lt;a href="https://tamas-ferenci.github.io/medstat/medstat/oktatas_fejezetek/idosorelemzes_fejezetek/kesleltetesipolinom/" >Késleltetési operátor és polinom, ARMA-folyamatok felírása késleltetési polinommal, az ARMA-folyamatok stacionaritása&lt;/a>
+&lt;/div>
+&lt;a href="https://tamas-ferenci.github.io/medstat/medstat/oktatas_fejezetek/idosorelemzes_fejezetek/kesleltetesipolinom/" class="summary-link">
+&lt;div class="article-style">
+Bevezetjük a késleltetési operátor fogalmát, amely mélyebb eszköz matematikailag, de ha uraljuk, akkor sokkal kényelmesebben kezelhetőek egyébként bonyolult problémák is. Ennek legfontosabb példájaként felírjuk az ARMA-folyamatokat ezzel az eszköztárral, ami lehetővé teszi, hogy megvizsgáljuk az ARMA-folyamatok stacionaritásának kérdését.
+&lt;/div>
+&lt;/a>
+&lt;div class="stream-meta article-metadata">
+&lt;div class="article-metadata">
+&lt;div>
+&lt;span >
+Ferenci Tamás&lt;/span>
+&lt;/div>
+&lt;span class="article-date">
+2023. május 6.
+&lt;/span>
+&lt;/div>
+&lt;/div>
+&lt;div class="btn-links">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://tamas-ferenci.github.io/medstat/medstat/oktatas/Idosorelemzes/FerenciTamas_Idosorelemzes_KesleltetesiOperatorEsPolinom_slides.pdf" >
+Diasor (slides)&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://tamas-ferenci.github.io/medstat/medstat/oktatas/Idosorelemzes/FerenciTamas_Idosorelemzes_KesleltetesiOperatorEsPolinom_handout.pdf" >
+Diasor (handout)&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://tamas-ferenci.github.io/medstat/medstat/oktatas/Idosorelemzes/FerenciTamas_Idosorelemzes_KesleltetesiOperatorEsPolinom_lecturenote.pdf" >
+Diasor (lecturenote)&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.youtube.com/playlist?list=PLqdN24UCw5hnRiq5hRluQ8G8rFf3bkF0u" target="_blank" rel="noopener">
+Videó&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="ml-3">
+&lt;/div>
+&lt;/div>
+&lt;div class="media stream-item view-compact">
+&lt;div class="media-body">
+&lt;div class="section-subheading article-title mb-0 mt-0">
+&lt;a href="https://tamas-ferenci.github.io/medstat/medstat/oktatas_fejezetek/idosorelemzes_fejezetek/stacteszt/" >A stacionaritás tesztelése&lt;/a>
+&lt;/div>
+&lt;a href="https://tamas-ferenci.github.io/medstat/medstat/oktatas_fejezetek/idosorelemzes_fejezetek/stacteszt/" class="summary-link">
+&lt;div class="article-style">
+Megnézzük, hogy milyen módon és eszközökkel lehet a stacionaritást mintából tesztelni.
+&lt;/div>
+&lt;/a>
+&lt;div class="stream-meta article-metadata">
+&lt;div class="article-metadata">
+&lt;div>
+&lt;span >
+Ferenci Tamás&lt;/span>
+&lt;/div>
+&lt;span class="article-date">
+2023. május 6.
+&lt;/span>
+&lt;/div>
+&lt;/div>
+&lt;div class="btn-links">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://tamas-ferenci.github.io/medstat/medstat/oktatas/Idosorelemzes/FerenciTamas_Idosorelemzes_AStacionaritasTesztelese_slides.pdf" >
+Diasor (slides)&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://tamas-ferenci.github.io/medstat/medstat/oktatas/Idosorelemzes/FerenciTamas_Idosorelemzes_AStacionaritasTesztelese_handout.pdf" >
+Diasor (handout)&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://tamas-ferenci.github.io/medstat/medstat/oktatas/Idosorelemzes/FerenciTamas_Idosorelemzes_AStacionaritasTesztelese_lecturenote.pdf" >
+Diasor (lecturenote)&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.youtube.com/playlist?list=PLqdN24UCw5hlFMZkQrNwE9liv65MLNw7o" target="_blank" rel="noopener">
+Videó&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="ml-3">
+&lt;/div>
+&lt;/div>
+&lt;div class="media stream-item view-compact">
+&lt;div class="media-body">
+&lt;div class="section-subheading article-title mb-0 mt-0">
+&lt;a href="https://tamas-ferenci.github.io/medstat/medstat/oktatas_fejezetek/idosorelemzes_fejezetek/nemstackezeles/" >A nemstacionaritás kezelése: stacionarizálás, trend- és differenciastacioner idősorok, differenciázás, ARIMA-folyamat&lt;/a>
+&lt;/div>
+&lt;a href="https://tamas-ferenci.github.io/medstat/medstat/oktatas_fejezetek/idosorelemzes_fejezetek/nemstackezeles/" class="summary-link">
+&lt;div class="article-style">
+Áttekintjük a nemstacioner idősorok modellezésének azon iskoláját, mely megpróbálja úgy kezelni a helyzetet, hogy az idősort egy stacioner idősorrá alakítja egy invertálható transzformációval.
+&lt;/div>
+&lt;/a>
+&lt;div class="stream-meta article-metadata">
+&lt;div class="article-metadata">
+&lt;div>
+&lt;span >
+Ferenci Tamás&lt;/span>
+&lt;/div>
+&lt;span class="article-date">
+2023. május 6.
+&lt;/span>
+&lt;/div>
+&lt;/div>
+&lt;div class="btn-links">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://tamas-ferenci.github.io/medstat/medstat/oktatas/Idosorelemzes/FerenciTamas_Idosorelemzes_ANemstacionaritasKezelese_slides.pdf" >
+Diasor (slides)&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://tamas-ferenci.github.io/medstat/medstat/oktatas/Idosorelemzes/FerenciTamas_Idosorelemzes_ANemstacionaritasKezelese_handout.pdf" >
+Diasor (handout)&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://tamas-ferenci.github.io/medstat/medstat/oktatas/Idosorelemzes/FerenciTamas_Idosorelemzes_ANemstacionaritasKezelese_lecturenote.pdf" >
+Diasor (lecturenote)&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.youtube.com/playlist?list=PLqdN24UCw5hnKtONCI3M0-Xfqo4uzj-EA" target="_blank" rel="noopener">
+Videó&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="ml-3">
+&lt;/div>
+&lt;/div>
+&lt;div class="media stream-item view-compact">
+&lt;div class="media-body">
+&lt;div class="section-subheading article-title mb-0 mt-0">
+&lt;a href="https://tamas-ferenci.github.io/medstat/medstat/oktatas_fejezetek/idosorelemzes_fejezetek/boxjenkins/" >Box-Jenkins eljárás, előrejelzés készítése&lt;/a>
+&lt;/div>
+&lt;a href="https://tamas-ferenci.github.io/medstat/medstat/oktatas_fejezetek/idosorelemzes_fejezetek/boxjenkins/" class="summary-link">
+&lt;div class="article-style">
+A Box-Jenkins eljárás az egyik legnépszerűbb, klasszikus megközelítése a sztochasztikus idősormodellezésnek. Elsőként áttekintjük a módszer lényegét, majd röviden beszélünk az előrejelzések készítésének kérdéseiről, ami nagyon is fontos lesz, amin van egy kész (megbecsült) idősormodellünk.
+&lt;/div>
+&lt;/a>
+&lt;div class="stream-meta article-metadata">
+&lt;div class="article-metadata">
+&lt;div>
+&lt;span >
+Ferenci Tamás&lt;/span>
+&lt;/div>
+&lt;span class="article-date">
+2023. május 6.
+&lt;/span>
+&lt;/div>
+&lt;/div>
+&lt;div class="btn-links">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://tamas-ferenci.github.io/medstat/medstat/oktatas/Idosorelemzes/FerenciTamas_Idosorelemzes_BoxJenkinsEljarasElorejelzesKeszitese_slides.pdf" >
+Diasor (slides)&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://tamas-ferenci.github.io/medstat/medstat/oktatas/Idosorelemzes/FerenciTamas_Idosorelemzes_BoxJenkinsEljarasElorejelzesKeszitese_handout.pdf" >
+Diasor (handout)&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://tamas-ferenci.github.io/medstat/medstat/oktatas/Idosorelemzes/FerenciTamas_Idosorelemzes_BoxJenkinsEljarasElorejelzesKeszitese_lecturenote.pdf" >
+Diasor (lecturenote)&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="ml-3">
+&lt;/div>
+&lt;/div>
+&lt;div class="media stream-item view-compact">
+&lt;div class="media-body">
+&lt;div class="section-subheading article-title mb-0 mt-0">
+&lt;a href="https://tamas-ferenci.github.io/medstat/medstat/oktatas_fejezetek/idosorelemzes_fejezetek/regresszio/" >Idősorok regressziója&lt;/a>
+&lt;/div>
+&lt;a href="https://tamas-ferenci.github.io/medstat/medstat/oktatas_fejezetek/idosorelemzes_fejezetek/regresszio/" class="summary-link">
+&lt;div class="article-style">
+Regressziót minden további nélkül végrehajthatunk idősorokkal: a lineáris modell változtatás nélkül felhasználható, csak az eredményváltozó és a magyarázó változók most idősorok lesznek. Ez a gondolat nagyon sokféle konkrét modellhez elvezet annak függvényében, hogy pontosan milyen idősorokat használunk magyarázó változóként; ezeket részletesen át fogjuk tekinteni. A másik fontos problémakör amit meg fogunk beszélni, hogy vajon a modell becslésén, és különösen a becslés tulajdonságain, a szükséges modellfeltevéseken mit változtat az, ha idősorokat regresszálunk egymással.
+&lt;/div>
+&lt;/a>
+&lt;div class="stream-meta article-metadata">
+&lt;div class="article-metadata">
+&lt;div>
+&lt;span >
+Ferenci Tamás&lt;/span>
+&lt;/div>
+&lt;span class="article-date">
+2023. május 6.
+&lt;/span>
+&lt;/div>
+&lt;/div>
+&lt;div class="btn-links">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://tamas-ferenci.github.io/medstat/medstat/oktatas/Idosorelemzes/FerenciTamas_Idosorelemzes_IdosorokRegresszioja_slides.pdf" >
+Diasor (slides)&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://tamas-ferenci.github.io/medstat/medstat/oktatas/Idosorelemzes/FerenciTamas_Idosorelemzes_IdosorokRegresszioja_handout.pdf" >
+Diasor (handout)&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://tamas-ferenci.github.io/medstat/medstat/oktatas/Idosorelemzes/FerenciTamas_Idosorelemzes_IdosorokRegresszioja_lecturenote.pdf" >
+Diasor (lecturenote)&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.youtube.com/playlist?list=PLqdN24UCw5hnSSYGTC2eCYy2fGYcBwgG7" target="_blank" rel="noopener">
+Videó&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="ml-3">
+&lt;/div>
+&lt;/div>
+&lt;div class="media stream-item view-compact">
+&lt;div class="media-body">
+&lt;div class="section-subheading article-title mb-0 mt-0">
+&lt;a href="https://tamas-ferenci.github.io/medstat/medstat/oktatas_fejezetek/idosorelemzes_fejezetek/tobbvaltozos/" >Többváltozós (vektor értékű) idősorok&lt;/a>
+&lt;/div>
+&lt;a href="https://tamas-ferenci.github.io/medstat/medstat/oktatas_fejezetek/idosorelemzes_fejezetek/tobbvaltozos/" class="summary-link">
+&lt;div class="article-style">
+Megvizsgáljuk, hogy több idősor egyidejű elemzésére, úgy, hogy a köztük lévő esetleges kapcsolatokat is vizsgálni szeretnénk, milyen eszközök állnak rendelkezésre, és egyáltalán, hogyan formalizálhatóak célszerűen az ilyen helyzetek.
+&lt;/div>
+&lt;/a>
+&lt;div class="stream-meta article-metadata">
+&lt;div class="article-metadata">
+&lt;div>
+&lt;span >
+Ferenci Tamás&lt;/span>
+&lt;/div>
+&lt;span class="article-date">
+2023. május 6.
+&lt;/span>
+&lt;/div>
+&lt;/div>
+&lt;div class="btn-links">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.youtube.com/playlist?list=PLqdN24UCw5hmo_jbJ1oWdFHjhmzgpxW6s" target="_blank" rel="noopener">
+Videó&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="ml-3">
+&lt;/div>
+&lt;/div></description></item><item><title>Regressziós modellezés</title><link>https://tamas-ferenci.github.io/medstat/oktatas/regressziosmodellezes/</link><pubDate>Fri, 24 Mar 2023 00:00:00 +0000</pubDate><guid>https://tamas-ferenci.github.io/medstat/oktatas/regressziosmodellezes/</guid><description>
+&lt;div class="media stream-item view-compact">
+&lt;div class="media-body">
+&lt;div class="section-subheading article-title mb-0 mt-0">
+&lt;a href="https://tamas-ferenci.github.io/medstat/medstat/oktatas_fejezetek/regressziosmodellezes_fejezetek/regresszioasokasagban/" >Regresszió a sokaságban: a feladat megfogalmazása, megoldása és modellminősítés&lt;/a>
+&lt;/div>
+&lt;a href="https://tamas-ferenci.github.io/medstat/medstat/oktatas_fejezetek/regressziosmodellezes_fejezetek/regresszioasokasagban/" class="summary-link">
+&lt;div class="article-style">
+Megfogalmazzuk a regressziós feladatot a sokaságban (azaz, ha ismerjük minden változó eloszlását), megoldjuk azt, majd megvizsgáljuk a megoldást abban a speciális esetben, ha a változók eloszlása normális. Röviden kitérünk arra a kérdésre is, hogy egy modell jósága hogyan jellemezhető.
+&lt;/div>
+&lt;/a>
+&lt;div class="stream-meta article-metadata">
+&lt;div class="article-metadata">
+&lt;div>
+&lt;span >
+Ferenci Tamás&lt;/span>
+&lt;/div>
+&lt;span class="article-date">
+2023. május 6.
+&lt;/span>
+&lt;/div>
+&lt;/div>
+&lt;div class="btn-links">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://tamas-ferenci.github.io/medstat/medstat/oktatas/RegressziosModellezes/FerenciTamas_RegressziosModellezes_RegresszioASokasagban_slides.pdf" >
+Diasor (slides)&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://tamas-ferenci.github.io/medstat/medstat/oktatas/RegressziosModellezes/FerenciTamas_RegressziosModellezes_RegresszioASokasagban_handout.pdf" >
+Diasor (handout)&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://tamas-ferenci.github.io/medstat/medstat/oktatas/RegressziosModellezes/FerenciTamas_RegressziosModellezes_RegresszioASokasagban_lecturenote.pdf" >
+Diasor (lecturenote)&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.youtube.com/playlist?list=PLqdN24UCw5hmsUFvrJ90Txv-KmwOOei9a" target="_blank" rel="noopener">
+Videó&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="ml-3">
+&lt;/div>
+&lt;/div>
+&lt;div class="media stream-item view-compact">
+&lt;div class="media-body">
+&lt;div class="section-subheading article-title mb-0 mt-0">
+&lt;a href="https://tamas-ferenci.github.io/medstat/medstat/oktatas_fejezetek/regressziosmodellezes_fejezetek/alinearisregresszio/" >A lineáris regresszió&lt;/a>
+&lt;/div>
+&lt;a href="https://tamas-ferenci.github.io/medstat/medstat/oktatas_fejezetek/regressziosmodellezes_fejezetek/alinearisregresszio/" class="summary-link">
+&lt;div class="article-style">
+Megnézzük, hogy mit jelent a linearitás egy regresszió esetében, és ennek során kulcsfontosságú megállapításra jutunk, amikor a paramétereket értelmezzük.
+&lt;/div>
+&lt;/a>
+&lt;div class="stream-meta article-metadata">
+&lt;div class="article-metadata">
+&lt;div>
+&lt;span >
+Ferenci Tamás&lt;/span>
+&lt;/div>
+&lt;span class="article-date">
+2023. május 6.
+&lt;/span>
+&lt;/div>
+&lt;/div>
+&lt;div class="btn-links">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://tamas-ferenci.github.io/medstat/medstat/oktatas/RegressziosModellezes/FerenciTamas_RegressziosModellezes_ALinearisRegresszio_slides.pdf" >
+Diasor (slides)&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://tamas-ferenci.github.io/medstat/medstat/oktatas/RegressziosModellezes/FerenciTamas_RegressziosModellezes_ALinearisRegresszio_handout.pdf" >
+Diasor (handout)&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://tamas-ferenci.github.io/medstat/medstat/oktatas/RegressziosModellezes/FerenciTamas_RegressziosModellezes_ALinearisRegresszio_lecturenote.pdf" >
+Diasor (lecturenote)&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.youtube.com/playlist?list=PLqdN24UCw5hnnrIZijNlCx9fcYKlLQapT" target="_blank" rel="noopener">
+Videó&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="ml-3">
+&lt;/div>
+&lt;/div>
+&lt;div class="media stream-item view-compact">
+&lt;div class="media-body">
+&lt;div class="section-subheading article-title mb-0 mt-0">
+&lt;a href="https://tamas-ferenci.github.io/medstat/medstat/oktatas_fejezetek/regressziosmodellezes_fejezetek/alinearisregressziosmodellbecslese/" >A lineáris regressziós modell becslése mintából, vektoros-mátrixos formalizmus, az OLS-becslő&lt;/a>
+&lt;/div>
+&lt;a href="https://tamas-ferenci.github.io/medstat/medstat/oktatas_fejezetek/regressziosmodellezes_fejezetek/alinearisregressziosmodellbecslese/" class="summary-link">
+&lt;div class="article-style">
+Megbeszéljük, hogy mit jelent a mintából becslés feladata a lineáris regressziós modellnél, majd megnézzük a legfontosabb becslőt: a közönséges legkisebb négyzetek (OLS) becslőt. Mindehhez vektoros-mátrixos formalizmussal írjuk fel a feladatot. Ezt követően kitérünk a modell többszörös determinációs együtthatóval történő jellemzésére, és a négyzetösszeg-felbontásra.
+&lt;/div>
+&lt;/a>
+&lt;div class="stream-meta article-metadata">
+&lt;div class="article-metadata">
+&lt;div>
+&lt;span >
+Ferenci Tamás&lt;/span>
+&lt;/div>
+&lt;span class="article-date">
+2023. május 6.
+&lt;/span>
+&lt;/div>
+&lt;/div>
+&lt;div class="btn-links">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://tamas-ferenci.github.io/medstat/medstat/oktatas/RegressziosModellezes/FerenciTamas_RegressziosModellezes_ALinearisRegressziosModellBecslese_slides.pdf" >
+Diasor (slides)&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://tamas-ferenci.github.io/medstat/medstat/oktatas/RegressziosModellezes/FerenciTamas_RegressziosModellezes_ALinearisRegressziosModellBecslese_handout.pdf" >
+Diasor (handout)&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://tamas-ferenci.github.io/medstat/medstat/oktatas/RegressziosModellezes/FerenciTamas_RegressziosModellezes_ALinearisRegressziosModellBecslese_lecturenote.pdf" >
+Diasor (lecturenote)&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.youtube.com/playlist?list=PLqdN24UCw5hmIG2eOsaH9tpleuppR_ssG" target="_blank" rel="noopener">
+Videó&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="ml-3">
+&lt;/div>
+&lt;/div>
+&lt;div class="media stream-item view-compact">
+&lt;div class="media-body">
+&lt;div class="section-subheading article-title mb-0 mt-0">
+&lt;a href="https://tamas-ferenci.github.io/medstat/medstat/oktatas_fejezetek/regressziosmodellezes_fejezetek/azolsbecslomodellfeltevesei/" >Az OLS becslő modellfeltevései és az OLS szolgáltatta becslések statisztikai tulajdonságai&lt;/a>
+&lt;/div>
+&lt;a href="https://tamas-ferenci.github.io/medstat/medstat/oktatas_fejezetek/regressziosmodellezes_fejezetek/azolsbecslomodellfeltevesei/" class="summary-link">
+&lt;div class="article-style">
+Megnézzük, hogy a mintavételi helyzet mit jelent az OLS szolgáltatta becslésekre nézve. Vajon milyen feltevések teljesülése esetén milyen tulajdonságai bizonyíthatóak az OLS-nek? Ráadásként visszatérünk az optimális sokasági regresszió kérdésére, és adunk egy új, feltevéseket igénylő, de cserében sokkal egyszerűbb levezetést.
+&lt;/div>
+&lt;/a>
+&lt;div class="stream-meta article-metadata">
+&lt;div class="article-metadata">
+&lt;div>
+&lt;span >
+Ferenci Tamás&lt;/span>
+&lt;/div>
+&lt;span class="article-date">
+2023. május 6.
+&lt;/span>
+&lt;/div>
+&lt;/div>
+&lt;div class="btn-links">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://tamas-ferenci.github.io/medstat/medstat/oktatas/RegressziosModellezes/FerenciTamas_RegressziosModellezes_AzOLSBecsloModellfeltevesei_slides.pdf" >
+Diasor (slides)&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://tamas-ferenci.github.io/medstat/medstat/oktatas/RegressziosModellezes/FerenciTamas_RegressziosModellezes_AzOLSBecsloModellfeltevesei_handout.pdf" >
+Diasor (handout)&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://tamas-ferenci.github.io/medstat/medstat/oktatas/RegressziosModellezes/FerenciTamas_RegressziosModellezes_AzOLSBecsloModellfeltevesei_lecturenote.pdf" >
+Diasor (lecturenote)&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.youtube.com/playlist?list=PLqdN24UCw5hlIrdfErPUgnoIQC4U6cxiL" target="_blank" rel="noopener">
+Videó&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="ml-3">
+&lt;/div>
+&lt;/div>
+&lt;div class="media stream-item view-compact">
+&lt;div class="media-body">
+&lt;div class="section-subheading article-title mb-0 mt-0">
+&lt;a href="https://tamas-ferenci.github.io/medstat/medstat/oktatas_fejezetek/regressziosmodellezes_fejezetek/hipvizsgesintervallumbecsles/" >Hipotézisvizsgálat és intervallumbecslés lineáris modellben&lt;/a>
+&lt;/div>
+&lt;a href="https://tamas-ferenci.github.io/medstat/medstat/oktatas_fejezetek/regressziosmodellezes_fejezetek/hipvizsgesintervallumbecsles/" class="summary-link">
+&lt;div class="article-style">
+Megvizsgáljuk, hogy lineáris modellben hogyan lehet különböző hipotéziseket megvizsgálni (egy paraméterre, összes paraméterre, tetszőleges számú paraméterre vonatkozó hipotézisek vizsgálata, egy és több lineáris megkötés vizsgálata), illetve paraméterekre konfidenciaintervallumot szerkeszteni. Mindezekhez először is a mintavételi eloszlás alakjáról kell tudnunk valamit, amihez vagy a hibanormalitási feltevés teljesülésére, vagy nagy mintára van szükség.
+&lt;/div>
+&lt;/a>
+&lt;div class="stream-meta article-metadata">
+&lt;div class="article-metadata">
+&lt;div>
+&lt;span >
+Ferenci Tamás&lt;/span>
+&lt;/div>
+&lt;span class="article-date">
+2023. május 6.
+&lt;/span>
+&lt;/div>
+&lt;/div>
+&lt;div class="btn-links">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://tamas-ferenci.github.io/medstat/medstat/oktatas/RegressziosModellezes/FerenciTamas_RegressziosModellezes_HipotezisvizsgalatEsIntervallumbecslesLinearisModellben_slides.pdf" >
+Diasor (slides)&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://tamas-ferenci.github.io/medstat/medstat/oktatas/RegressziosModellezes/FerenciTamas_RegressziosModellezes_HipotezisvizsgalatEsIntervallumbecslesLinearisModellben_handout.pdf" >
+Diasor (handout)&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://tamas-ferenci.github.io/medstat/medstat/oktatas/RegressziosModellezes/FerenciTamas_RegressziosModellezes_HipotezisvizsgalatEsIntervallumbecslesLinearisModellben_lecturenote.pdf" >
+Diasor (lecturenote)&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.youtube.com/playlist?list=PLqdN24UCw5hlBEZNy9nmKSYc5yrKmxR4i" target="_blank" rel="noopener">
+Videó&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="ml-3">
+&lt;/div>
+&lt;/div>
+&lt;div class="media stream-item view-compact">
+&lt;div class="media-body">
+&lt;div class="section-subheading article-title mb-0 mt-0">
+&lt;a href="https://tamas-ferenci.github.io/medstat/medstat/oktatas_fejezetek/regressziosmodellezes_fejezetek/kategorialismagyarazovaltozok/" >Kategoriális magyarázó változók&lt;/a>
+&lt;/div>
+&lt;a href="https://tamas-ferenci.github.io/medstat/medstat/oktatas_fejezetek/regressziosmodellezes_fejezetek/kategorialismagyarazovaltozok/" class="summary-link">
+&lt;div class="article-style">
+Megbeszéljük annak a kérdéseit, ha egy regresszió magyarázó változói között kategoriális (minőségi) változót kell szerepeltetnünk. A változó szerepelhet önmagában, más kategoriális magyarázó változóval együtt, vagy folytonos változó mellett is.
+&lt;/div>
+&lt;/a>
+&lt;div class="stream-meta article-metadata">
+&lt;div class="article-metadata">
+&lt;div>
+&lt;span >
+Ferenci Tamás&lt;/span>
+&lt;/div>
+&lt;span class="article-date">
+2023. május 6.
+&lt;/span>
+&lt;/div>
+&lt;/div>
+&lt;div class="btn-links">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://tamas-ferenci.github.io/medstat/medstat/oktatas/RegressziosModellezes/FerenciTamas_RegressziosModellezes_KategorialisMagyarazoValtozok_slides.pdf" >
+Diasor (slides)&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://tamas-ferenci.github.io/medstat/medstat/oktatas/RegressziosModellezes/FerenciTamas_RegressziosModellezes_KategorialisMagyarazoValtozok_handout.pdf" >
+Diasor (handout)&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://tamas-ferenci.github.io/medstat/medstat/oktatas/RegressziosModellezes/FerenciTamas_RegressziosModellezes_KategorialisMagyarazoValtozok_lecturenote.pdf" >
+Diasor (lecturenote)&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.youtube.com/playlist?list=PLqdN24UCw5hnwj5Nm6XO_ZNmZONhhgx-D" target="_blank" rel="noopener">
+Videó&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="ml-3">
+&lt;/div>
+&lt;/div>
+&lt;div class="media stream-item view-compact">
+&lt;div class="media-body">
+&lt;div class="section-subheading article-title mb-0 mt-0">
+&lt;a href="https://tamas-ferenci.github.io/medstat/medstat/oktatas_fejezetek/regressziosmodellezes_fejezetek/altbecsles/" >Regressziós modellek alternatív becslési lehetőségei&lt;/a>
+&lt;/div>
+&lt;a href="https://tamas-ferenci.github.io/medstat/medstat/oktatas_fejezetek/regressziosmodellezes_fejezetek/altbecsles/" class="summary-link">
+&lt;div class="article-style">
+Megnézzük, hogy a legklasszikusabb OLS eljáráson kívül milyen egyéb lehetőségek vannak regressziós modellek becslésére.
+&lt;/div>
+&lt;/a>
+&lt;div class="stream-meta article-metadata">
+&lt;div class="article-metadata">
+&lt;div>
+&lt;span >
+Ferenci Tamás&lt;/span>
+&lt;/div>
+&lt;span class="article-date">
+2023. május 6.
+&lt;/span>
+&lt;/div>
+&lt;/div>
+&lt;div class="btn-links">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://tamas-ferenci.github.io/medstat/medstat/oktatas/RegressziosModellezes/FerenciTamas_RegressziosModellezes_RegressziosModellekAlternativBecslesiLehetosegei_slides.pdf" >
+Diasor (slides)&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://tamas-ferenci.github.io/medstat/medstat/oktatas/RegressziosModellezes/FerenciTamas_RegressziosModellezes_RegressziosModellekAlternativBecslesiLehetosegei_handout.pdf" >
+Diasor (handout)&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://tamas-ferenci.github.io/medstat/medstat/oktatas/RegressziosModellezes/FerenciTamas_RegressziosModellezes_RegressziosModellekAlternativBecslesiLehetosegei_lecturenote.pdf" >
+Diasor (lecturenote)&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.youtube.com/playlist?list=PLqdN24UCw5hmGLeA_8_pertelpS0ZCPbG" target="_blank" rel="noopener">
+Videó&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="ml-3">
+&lt;/div>
+&lt;/div>
+&lt;div class="media stream-item view-compact">
+&lt;div class="media-body">
+&lt;div class="section-subheading article-title mb-0 mt-0">
+&lt;a href="https://tamas-ferenci.github.io/medstat/medstat/oktatas_fejezetek/regressziosmodellezes_fejezetek/linearitasesfeloldasa/" >Linearitás és feloldása, nemlineáris modellek&lt;/a>
+&lt;/div>
+&lt;a href="https://tamas-ferenci.github.io/medstat/medstat/oktatas_fejezetek/regressziosmodellezes_fejezetek/linearitasesfeloldasa/" class="summary-link">
+&lt;div class="article-style">
+Bevezetésként megbeszéljük a marginális hatásnak (&amp;quot;+1 egység hogyan hat&amp;quot;) mi a pontos értelmezése, melynek jelentősége lesz, ha nem csak lineáris modelleket nézünk. Ez után elsőként feloldjuk elsőként az additivitást, tehát, hogy az egyes magyarázó változók eredményváltozóra gyakorolt hatása nem függ a többi magyarázó változó értékétől, azaz bevezetjük az interakció fogalmát. Ezt követően feloldjuk a változónkénti linearitást is, tehát, hogy a meredekség ugyanaz, függetlenül attól, hogy mi a magyarázó változó értéke. Röviden áttekintjük egy analízisbeli érveléssel, hogy a linearitás miért lehet jó közelítés, majd teljes általánosságban osztályozzuk a nemlinearitásokat, és megbeszéljük becslési lehetőségeiket. Végezetül áttekintjük az egyik legfontosabb nemlinearitást, a logaritmált változók szerepeltetését, mind eredmény- mind magyarázó változóként.
+&lt;/div>
+&lt;/a>
+&lt;div class="stream-meta article-metadata">
+&lt;div class="article-metadata">
+&lt;div>
+&lt;span >
+Ferenci Tamás&lt;/span>
+&lt;/div>
+&lt;span class="article-date">
+2023. május 6.
+&lt;/span>
+&lt;/div>
+&lt;/div>
+&lt;div class="btn-links">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://tamas-ferenci.github.io/medstat/medstat/oktatas/RegressziosModellezes/FerenciTamas_RegressziosModellezes_LinearitasEsFeloldasaNemlinearisModellek_slides.pdf" >
+Diasor (slides)&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://tamas-ferenci.github.io/medstat/medstat/oktatas/RegressziosModellezes/FerenciTamas_RegressziosModellezes_LinearitasEsFeloldasaNemlinearisModellek_handout.pdf" >
+Diasor (handout)&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://tamas-ferenci.github.io/medstat/medstat/oktatas/RegressziosModellezes/FerenciTamas_RegressziosModellezes_LinearitasEsFeloldasaNemlinearisModellek_lecturenote.pdf" >
+Diasor (lecturenote)&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.youtube.com/playlist?list=PLqdN24UCw5hnfEsNMPYEmp54bH99XFEkF" target="_blank" rel="noopener">
+Videó&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="ml-3">
+&lt;/div>
+&lt;/div>
+&lt;div class="media stream-item view-compact">
+&lt;div class="media-body">
+&lt;div class="section-subheading article-title mb-0 mt-0">
+&lt;a href="https://tamas-ferenci.github.io/medstat/medstat/oktatas_fejezetek/regressziosmodellezes_fejezetek/amultikollinearitas/" >A multikollinearitás&lt;/a>
+&lt;/div>
+&lt;a href="https://tamas-ferenci.github.io/medstat/medstat/oktatas_fejezetek/regressziosmodellezes_fejezetek/amultikollinearitas/" class="summary-link">
+&lt;div class="article-style">
+A multikollinearitás két formája érdekes számunkra: az egzakt, amikor a regresszió paraméterei meg sem becsülhetőek, és a nem egzakt, amikor léteznek ugyan becsült paraméterek, de azok nem feltétlenül szerencsés tulajdonságokkal bírnak. A multikollinearitás kevesebb esetben jelent gondot, mint azt sokan feltételezik, úgyhogy elsőként azt tisztázzuk, hogy mikor kell egyáltalán foglalkozni vele. Ezt követően megbeszéljük a mérésére és a kezelésére szolgáló eszközöket, bár látni fogjuk, hogy mindkettőnél sok probléma merül fel.
+&lt;/div>
+&lt;/a>
+&lt;div class="stream-meta article-metadata">
+&lt;div class="article-metadata">
+&lt;div>
+&lt;span >
+Ferenci Tamás&lt;/span>
+&lt;/div>
+&lt;span class="article-date">
+2023. május 6.
+&lt;/span>
+&lt;/div>
+&lt;/div>
+&lt;div class="btn-links">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://tamas-ferenci.github.io/medstat/medstat/oktatas/RegressziosModellezes/FerenciTamas_RegressziosModellezes_AMultikollinearitas_slides.pdf" >
+Diasor (slides)&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://tamas-ferenci.github.io/medstat/medstat/oktatas/RegressziosModellezes/FerenciTamas_RegressziosModellezes_AMultikollinearitas_handout.pdf" >
+Diasor (handout)&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://tamas-ferenci.github.io/medstat/medstat/oktatas/RegressziosModellezes/FerenciTamas_RegressziosModellezes_AMultikollinearitas_lecturenote.pdf" >
+Diasor (lecturenote)&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.youtube.com/playlist?list=PLqdN24UCw5hk7KefBBleJkE6QpPSBgszh" target="_blank" rel="noopener">
+Videó&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="ml-3">
+&lt;/div>
+&lt;/div>
+&lt;div class="media stream-item view-compact">
+&lt;div class="media-body">
+&lt;div class="section-subheading article-title mb-0 mt-0">
+&lt;a href="https://tamas-ferenci.github.io/medstat/medstat/oktatas_fejezetek/regressziosmodellezes_fejezetek/modellszelekcio/" >A modellszelekció kérdései&lt;/a>
+&lt;/div>
+&lt;a href="https://tamas-ferenci.github.io/medstat/medstat/oktatas_fejezetek/regressziosmodellezes_fejezetek/modellszelekcio/" class="summary-link">
+&lt;div class="article-style">
+A modellszelekció során azt a kérdést próbáljuk megválaszolni, hogy ha adott magyarázó változók egy potenciális köre (tehát nem vagyunk benne biztosak, hogy mindegyiket használni kell magyarázó változóként) akkor hogyan dönthetjük el, hogy melyek azok amiket végülis beveszünk egy regressziós modellbe.
+&lt;/div>
+&lt;/a>
+&lt;div class="stream-meta article-metadata">
+&lt;div class="article-metadata">
+&lt;div>
+&lt;span >
+Ferenci Tamás&lt;/span>
+&lt;/div>
+&lt;span class="article-date">
+2023. május 6.
+&lt;/span>
+&lt;/div>
+&lt;/div>
+&lt;div class="btn-links">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://tamas-ferenci.github.io/medstat/medstat/oktatas/RegressziosModellezes/FerenciTamas_RegressziosModellezes_Modellszelekcio_slides.pdf" >
+Diasor (slides)&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://tamas-ferenci.github.io/medstat/medstat/oktatas/RegressziosModellezes/FerenciTamas_RegressziosModellezes_Modellszelekcio_handout.pdf" >
+Diasor (handout)&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://tamas-ferenci.github.io/medstat/medstat/oktatas/RegressziosModellezes/FerenciTamas_RegressziosModellezes_Modellszelekcio_lecturenote.pdf" >
+Diasor (lecturenote)&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="ml-3">
+&lt;/div>
+&lt;/div>
+&lt;div class="media stream-item view-compact">
+&lt;div class="media-body">
+&lt;div class="section-subheading article-title mb-0 mt-0">
+&lt;a href="https://tamas-ferenci.github.io/medstat/medstat/oktatas_fejezetek/regressziosmodellezes_fejezetek/exogenitas/" >Az exogenitás és sérülése&lt;/a>
+&lt;/div>
+&lt;a href="https://tamas-ferenci.github.io/medstat/medstat/oktatas_fejezetek/regressziosmodellezes_fejezetek/exogenitas/" class="summary-link">
+&lt;div class="article-style">
+Megnézzük, hogy a szigorú exogenitás modellfeltevése mit jelent pontosan, mi a tartalma. Látni fogjuk, hogy az egyik legfontosabb következménye, hogy kizárja a confounding-ot, azaz, hogy lényeges változót kihagyunk a regresszióból. Hosszan megbeszéljük, hogy ennek pontosan mi a statisztikai tartalma egy regressziós modellben. Ez persze csak egy példa, még ha a legfontosabb példa is, az exogenitás sérülésére; hasonló jelenséget okozhat a mérési hiba vagy a szimultaneitás is. Ezeken kívül megbeszéljük a feltétel lehetséges gyengítéseit, annak következményeit arra, hogy az OLS szolgáltatta becslésre milyen tulajdonságokat tudunk igazolni, illetve beszélünk a kezelés lehetőségeiről is, megmutatva, hogy ez miért nagyon nehéz feladat.
+&lt;/div>
+&lt;/a>
+&lt;div class="stream-meta article-metadata">
+&lt;div class="article-metadata">
+&lt;div>
+&lt;span >
+Ferenci Tamás&lt;/span>
+&lt;/div>
+&lt;span class="article-date">
+2023. május 6.
+&lt;/span>
+&lt;/div>
+&lt;/div>
+&lt;div class="btn-links">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://tamas-ferenci.github.io/medstat/medstat/oktatas/RegressziosModellezes/FerenciTamas_RegressziosModellezes_AzExogenitasEsSerulese_slides.pdf" >
+Diasor (slides)&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://tamas-ferenci.github.io/medstat/medstat/oktatas/RegressziosModellezes/FerenciTamas_RegressziosModellezes_AzExogenitasEsSerulese_handout.pdf" >
+Diasor (handout)&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://tamas-ferenci.github.io/medstat/medstat/oktatas/RegressziosModellezes/FerenciTamas_RegressziosModellezes_AzExogenitasEsSerulese_lecturenote.pdf" >
+Diasor (lecturenote)&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.youtube.com/playlist?list=PLqdN24UCw5hleSpLvs6Cdf9PKcCH9nhzc" target="_blank" rel="noopener">
+Videó&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="ml-3">
+&lt;/div>
+&lt;/div>
+&lt;div class="media stream-item view-compact">
+&lt;div class="media-body">
+&lt;div class="section-subheading article-title mb-0 mt-0">
+&lt;a href="https://tamas-ferenci.github.io/medstat/medstat/oktatas_fejezetek/regressziosmodellezes_fejezetek/homoszkedaszticitas/" >A homoszkedaszticitás és sérülése&lt;/a>
+&lt;/div>
+&lt;a href="https://tamas-ferenci.github.io/medstat/medstat/oktatas_fejezetek/regressziosmodellezes_fejezetek/homoszkedaszticitas/" class="summary-link">
+&lt;div class="article-style">
+A homoszkedaszticitás követelménye egyszerűen szólva azt jelenti, hogy a hibák szórása legyen állandó. Elsőként megnézzük ennek a pontos definícióját, tartalmát és jelentőségét, különös tekintettel arra, hogy a sérülése esetén milyen problémák jelennek meg egy regressziós modellben, majd áttérünk a második nagy kérdéskörre: arra, hogy hogyan lehet detektálni ezt a jelenséget. A tesztelés kérdései után pedig, harmadik témaként megbeszéljük, hogy a homoszkedaszticitás sérülését hogyan lehet kezelni, mit tehetünk, ha egy regressziós modellben ha fellépne ez a jelenség.
+&lt;/div>
+&lt;/a>
+&lt;div class="stream-meta article-metadata">
+&lt;div class="article-metadata">
+&lt;div>
+&lt;span >
+Ferenci Tamás&lt;/span>
+&lt;/div>
+&lt;span class="article-date">
+2023. május 6.
+&lt;/span>
+&lt;/div>
+&lt;/div>
+&lt;div class="btn-links">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://tamas-ferenci.github.io/medstat/medstat/oktatas/RegressziosModellezes/FerenciTamas_RegressziosModellezes_AHomoszkedaszticitasEsSerulese_slides.pdf" >
+Diasor (slides)&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://tamas-ferenci.github.io/medstat/medstat/oktatas/RegressziosModellezes/FerenciTamas_RegressziosModellezes_AHomoszkedaszticitasEsSerulese_handout.pdf" >
+Diasor (handout)&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://tamas-ferenci.github.io/medstat/medstat/oktatas/RegressziosModellezes/FerenciTamas_RegressziosModellezes_AHomoszkedaszticitasEsSerulese_lecturenote.pdf" >
+Diasor (lecturenote)&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="ml-3">
+&lt;/div>
+&lt;/div>
+&lt;div class="media stream-item view-compact">
+&lt;div class="media-body">
+&lt;div class="section-subheading article-title mb-0 mt-0">
+&lt;a href="https://tamas-ferenci.github.io/medstat/medstat/oktatas_fejezetek/regressziosmodellezes_fejezetek/logisztikusregresszio/" >Kategoriális eredményváltozó modellezése: a logisztikus regresszió és változatai&lt;/a>
+&lt;/div>
+&lt;a href="https://tamas-ferenci.github.io/medstat/medstat/oktatas_fejezetek/regressziosmodellezes_fejezetek/logisztikusregresszio/" class="summary-link">
+&lt;div class="article-style">
+Az eddigi lineáris regressziós modell kereteit szétfeszíti, ha az eredményváltozó nem folytonos, hanem kategoriális. Ehhez egy új regressziós megoldást kell kifejlesztenünk, ez lesz a logisztikus regresszió, mely sajátos értelmezéssel rendelkezik, OLS-elven nem becsülhető, de ML-elven igen, illetve komoly kérdéseket vet fel az előrejelzés vele. A legegyszerűbb - bináris - eredményváltozóra vonatkozó modell után megismerkedünk az egyéb eseteket kezelő változataival is ennek a modellnek.
+&lt;/div>
+&lt;/a>
+&lt;div class="stream-meta article-metadata">
+&lt;div class="article-metadata">
+&lt;div>
+&lt;span >
+Ferenci Tamás&lt;/span>
+&lt;/div>
+&lt;span class="article-date">
+2023. május 6.
+&lt;/span>
+&lt;/div>
+&lt;/div>
+&lt;div class="btn-links">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://tamas-ferenci.github.io/medstat/medstat/oktatas/RegressziosModellezes/FerenciTamas_RegressziosModellezes_KategorialisEredmenyValtozoALogisztikusRegresszio_slides.pdf" >
+Diasor (slides)&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://tamas-ferenci.github.io/medstat/medstat/oktatas/RegressziosModellezes/FerenciTamas_RegressziosModellezes_KategorialisEredmenyValtozoALogisztikusRegresszio_handout.pdf" >
+Diasor (handout)&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://tamas-ferenci.github.io/medstat/medstat/oktatas/RegressziosModellezes/FerenciTamas_RegressziosModellezes_KategorialisEredmenyValtozoALogisztikusRegresszio_lecturenote.pdf" >
+Diasor (lecturenote)&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.youtube.com/playlist?list=PLqdN24UCw5hlnjtQkcTSmHZ2ADKLpeIeB" target="_blank" rel="noopener">
+Videó&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="ml-3">
+&lt;/div>
+&lt;/div>
+&lt;div class="media stream-item view-compact">
+&lt;div class="media-body">
+&lt;div class="section-subheading article-title mb-0 mt-0">
+&lt;a href="https://tamas-ferenci.github.io/medstat/medstat/oktatas_fejezetek/regressziosmodellezes_fejezetek/glm/" >Az általánosított lineáris modell (GLM)&lt;/a>
+&lt;/div>
+&lt;a href="https://tamas-ferenci.github.io/medstat/medstat/oktatas_fejezetek/regressziosmodellezes_fejezetek/glm/" class="summary-link">
+&lt;div class="article-style">
+Az általánosított lineáris modell (GLM) egy egységes elmélet, mely speciális esetként tartalmazza az összes eddig látott regressziós modellt. Elméleti szépsége mellett több gyakorlati előnyt is jelent, hiszen tulajdonságai jól kiismertek, és minden ilyen keretrendszerben leírható modell automatikusan rendelkezni fog velük.
+&lt;/div>
+&lt;/a>
+&lt;div class="stream-meta article-metadata">
+&lt;div class="article-metadata">
+&lt;div>
+&lt;span >
+Ferenci Tamás&lt;/span>
+&lt;/div>
+&lt;span class="article-date">
+2023. május 6.
+&lt;/span>
+&lt;/div>
+&lt;/div>
+&lt;div class="btn-links">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://tamas-ferenci.github.io/medstat/medstat/oktatas/RegressziosModellezes/FerenciTamas_RegressziosModellezes_AzAltalanositottLinearisModellGLM_slides.pdf" >
+Diasor (slides)&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://tamas-ferenci.github.io/medstat/medstat/oktatas/RegressziosModellezes/FerenciTamas_RegressziosModellezes_AzAltalanositottLinearisModellGLM_handout.pdf" >
+Diasor (handout)&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://tamas-ferenci.github.io/medstat/medstat/oktatas/RegressziosModellezes/FerenciTamas_RegressziosModellezes_AzAltalanositottLinearisModellGLM_lecturenote.pdf" >
+Diasor (lecturenote)&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.youtube.com/playlist?list=PLqdN24UCw5hkC6NKsbWXSC_9YR3bH9Daw" target="_blank" rel="noopener">
+Videó&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="ml-3">
+&lt;/div>
+&lt;/div></description></item><item><title>Ökonometria</title><link>https://tamas-ferenci.github.io/medstat/oktatas/okonometria/</link><pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate><guid>https://tamas-ferenci.github.io/medstat/oktatas/okonometria/</guid><description>
+&lt;div class="media stream-item view-compact">
+&lt;div class="media-body">
+&lt;div class="section-subheading article-title mb-0 mt-0">
+&lt;a href="https://tamas-ferenci.github.io/medstat/medstat/oktatas_fejezetek/okonometria_fejezetek/azokonometriaalapjai/" >Az ökonometria alapjai&lt;/a>
+&lt;/div>
+&lt;a href="https://tamas-ferenci.github.io/medstat/medstat/oktatas_fejezetek/okonometria_fejezetek/azokonometriaalapjai/" class="summary-link">
+&lt;div class="article-style">
+Néhány példán keresztül megbeszéljük, hogy az ökonometria milyen feladatok megoldását tűzi ki célul, majd bevezetjük az alapfogalmakat, hogy aztán elkezdhessünk dolgozni a problémák megoldásának irányában.
+&lt;/div>
+&lt;/a>
+&lt;div class="stream-meta article-metadata">
+&lt;div class="article-metadata">
+&lt;div>
+&lt;span >
+Ferenci Tamás&lt;/span>
+&lt;/div>
+&lt;span class="article-date">
+2023. május 9.
+&lt;/span>
+&lt;/div>
+&lt;/div>
+&lt;div class="btn-links">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://tamas-ferenci.github.io/medstat/medstat/oktatas/Okonometria/FerenciTamas_Okonometria_AzOkonometriaAlapjai_slides.pdf" >
+Diasor (slides)&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://tamas-ferenci.github.io/medstat/medstat/oktatas/Okonometria/FerenciTamas_Okonometria_AzOkonometriaAlapjai_handout.pdf" >
+Diasor (handout)&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://tamas-ferenci.github.io/medstat/medstat/oktatas/Okonometria/FerenciTamas_Okonometria_AzOkonometriaAlapjai_lecturenote.pdf" >
+Diasor (lecturenote)&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.youtube.com/playlist?list=PLqdN24UCw5hmUffhZhz61wQOfHqksS5CP" target="_blank" rel="noopener">
+Videó&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="ml-3">
+&lt;/div>
+&lt;/div></description></item><item><title>Az ökonometria alapjai</title><link>https://tamas-ferenci.github.io/medstat/oktatas_fejezetek/okonometria_fejezetek/azokonometriaalapjai/</link><pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate><guid>https://tamas-ferenci.github.io/medstat/oktatas_fejezetek/okonometria_fejezetek/azokonometriaalapjai/</guid><description/></item><item><title>A homoszkedaszticitás és sérülése</title><link>https://tamas-ferenci.github.io/medstat/oktatas_fejezetek/regressziosmodellezes_fejezetek/homoszkedaszticitas/</link><pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate><guid>https://tamas-ferenci.github.io/medstat/oktatas_fejezetek/regressziosmodellezes_fejezetek/homoszkedaszticitas/</guid><description/></item><item><title>A lineáris regresszió</title><link>https://tamas-ferenci.github.io/medstat/oktatas_fejezetek/regressziosmodellezes_fejezetek/alinearisregresszio/</link><pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate><guid>https://tamas-ferenci.github.io/medstat/oktatas_fejezetek/regressziosmodellezes_fejezetek/alinearisregresszio/</guid><description/></item><item><title>A lineáris regressziós modell becslése mintából, vektoros-mátrixos formalizmus, az OLS-becslő</title><link>https://tamas-ferenci.github.io/medstat/oktatas_fejezetek/regressziosmodellezes_fejezetek/alinearisregressziosmodellbecslese/</link><pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate><guid>https://tamas-ferenci.github.io/medstat/oktatas_fejezetek/regressziosmodellezes_fejezetek/alinearisregressziosmodellbecslese/</guid><description/></item><item><title>A modellszelekció kérdései</title><link>https://tamas-ferenci.github.io/medstat/oktatas_fejezetek/regressziosmodellezes_fejezetek/modellszelekcio/</link><pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate><guid>https://tamas-ferenci.github.io/medstat/oktatas_fejezetek/regressziosmodellezes_fejezetek/modellszelekcio/</guid><description/></item><item><title>A multikollinearitás</title><link>https://tamas-ferenci.github.io/medstat/oktatas_fejezetek/regressziosmodellezes_fejezetek/amultikollinearitas/</link><pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate><guid>https://tamas-ferenci.github.io/medstat/oktatas_fejezetek/regressziosmodellezes_fejezetek/amultikollinearitas/</guid><description/></item><item><title>A nemstacionaritás kezelése: stacionarizálás, trend- és differenciastacioner idősorok, differenciázás, ARIMA-folyamat</title><link>https://tamas-ferenci.github.io/medstat/oktatas_fejezetek/idosorelemzes_fejezetek/nemstackezeles/</link><pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate><guid>https://tamas-ferenci.github.io/medstat/oktatas_fejezetek/idosorelemzes_fejezetek/nemstackezeles/</guid><description/></item><item><title>A stacionaritás és az ergodicitás fogalma</title><link>https://tamas-ferenci.github.io/medstat/oktatas_fejezetek/idosorelemzes_fejezetek/stacionaritas/</link><pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate><guid>https://tamas-ferenci.github.io/medstat/oktatas_fejezetek/idosorelemzes_fejezetek/stacionaritas/</guid><description/></item><item><title>A stacionaritás tesztelése</title><link>https://tamas-ferenci.github.io/medstat/oktatas_fejezetek/idosorelemzes_fejezetek/stacteszt/</link><pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate><guid>https://tamas-ferenci.github.io/medstat/oktatas_fejezetek/idosorelemzes_fejezetek/stacteszt/</guid><description/></item><item><title>A sztochasztikus idősormodellezési filozófia, és alapelemei: a fehérzaj-, az AR-, az MA- és ARMA-folyamatok</title><link>https://tamas-ferenci.github.io/medstat/oktatas_fejezetek/idosorelemzes_fejezetek/sztochasztikus/</link><pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate><guid>https://tamas-ferenci.github.io/medstat/oktatas_fejezetek/idosorelemzes_fejezetek/sztochasztikus/</guid><description/></item><item><title>Az általánosított lineáris modell (GLM)</title><link>https://tamas-ferenci.github.io/medstat/oktatas_fejezetek/regressziosmodellezes_fejezetek/glm/</link><pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate><guid>https://tamas-ferenci.github.io/medstat/oktatas_fejezetek/regressziosmodellezes_fejezetek/glm/</guid><description/></item><item><title>Az exogenitás és sérülése</title><link>https://tamas-ferenci.github.io/medstat/oktatas_fejezetek/regressziosmodellezes_fejezetek/exogenitas/</link><pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate><guid>https://tamas-ferenci.github.io/medstat/oktatas_fejezetek/regressziosmodellezes_fejezetek/exogenitas/</guid><description/></item><item><title>Az idősorelemzés alapjai</title><link>https://tamas-ferenci.github.io/medstat/oktatas_fejezetek/idosorelemzes_fejezetek/alapok/</link><pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate><guid>https://tamas-ferenci.github.io/medstat/oktatas_fejezetek/idosorelemzes_fejezetek/alapok/</guid><description/></item><item><title>Az OLS becslő modellfeltevései és az OLS szolgáltatta becslések statisztikai tulajdonságai</title><link>https://tamas-ferenci.github.io/medstat/oktatas_fejezetek/regressziosmodellezes_fejezetek/azolsbecslomodellfeltevesei/</link><pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate><guid>https://tamas-ferenci.github.io/medstat/oktatas_fejezetek/regressziosmodellezes_fejezetek/azolsbecslomodellfeltevesei/</guid><description/></item><item><title>Box-Jenkins eljárás, előrejelzés készítése</title><link>https://tamas-ferenci.github.io/medstat/oktatas_fejezetek/idosorelemzes_fejezetek/boxjenkins/</link><pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate><guid>https://tamas-ferenci.github.io/medstat/oktatas_fejezetek/idosorelemzes_fejezetek/boxjenkins/</guid><description/></item><item><title>Determinisztikus idősorelemzés, dekompozíciós idősormodellek: trend, szezonalitás és ciklus</title><link>https://tamas-ferenci.github.io/medstat/oktatas_fejezetek/idosorelemzes_fejezetek/determinisztikus/</link><pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate><guid>https://tamas-ferenci.github.io/medstat/oktatas_fejezetek/idosorelemzes_fejezetek/determinisztikus/</guid><description/></item><item><title>Hipotézisvizsgálat és intervallumbecslés lineáris modellben</title><link>https://tamas-ferenci.github.io/medstat/oktatas_fejezetek/regressziosmodellezes_fejezetek/hipvizsgesintervallumbecsles/</link><pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate><guid>https://tamas-ferenci.github.io/medstat/oktatas_fejezetek/regressziosmodellezes_fejezetek/hipvizsgesintervallumbecsles/</guid><description/></item><item><title>Idősorok regressziója</title><link>https://tamas-ferenci.github.io/medstat/oktatas_fejezetek/idosorelemzes_fejezetek/regresszio/</link><pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate><guid>https://tamas-ferenci.github.io/medstat/oktatas_fejezetek/idosorelemzes_fejezetek/regresszio/</guid><description/></item><item><title>Idősorok szűrése</title><link>https://tamas-ferenci.github.io/medstat/oktatas_fejezetek/idosorelemzes_fejezetek/szures/</link><pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate><guid>https://tamas-ferenci.github.io/medstat/oktatas_fejezetek/idosorelemzes_fejezetek/szures/</guid><description/></item><item><title>Kategoriális eredményváltozó modellezése: a logisztikus regresszió és változatai</title><link>https://tamas-ferenci.github.io/medstat/oktatas_fejezetek/regressziosmodellezes_fejezetek/logisztikusregresszio/</link><pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate><guid>https://tamas-ferenci.github.io/medstat/oktatas_fejezetek/regressziosmodellezes_fejezetek/logisztikusregresszio/</guid><description/></item><item><title>Kategoriális magyarázó változók</title><link>https://tamas-ferenci.github.io/medstat/oktatas_fejezetek/regressziosmodellezes_fejezetek/kategorialismagyarazovaltozok/</link><pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate><guid>https://tamas-ferenci.github.io/medstat/oktatas_fejezetek/regressziosmodellezes_fejezetek/kategorialismagyarazovaltozok/</guid><description/></item><item><title>Késleltetési operátor és polinom, ARMA-folyamatok felírása késleltetési polinommal, az ARMA-folyamatok stacionaritása</title><link>https://tamas-ferenci.github.io/medstat/oktatas_fejezetek/idosorelemzes_fejezetek/kesleltetesipolinom/</link><pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate><guid>https://tamas-ferenci.github.io/medstat/oktatas_fejezetek/idosorelemzes_fejezetek/kesleltetesipolinom/</guid><description/></item><item><title>Linearitás és feloldása, nemlineáris modellek</title><link>https://tamas-ferenci.github.io/medstat/oktatas_fejezetek/regressziosmodellezes_fejezetek/linearitasesfeloldasa/</link><pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate><guid>https://tamas-ferenci.github.io/medstat/oktatas_fejezetek/regressziosmodellezes_fejezetek/linearitasesfeloldasa/</guid><description/></item><item><title>Regresszió a sokaságban: a feladat megfogalmazása, megoldása és modellminősítés</title><link>https://tamas-ferenci.github.io/medstat/oktatas_fejezetek/regressziosmodellezes_fejezetek/regresszioasokasagban/</link><pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate><guid>https://tamas-ferenci.github.io/medstat/oktatas_fejezetek/regressziosmodellezes_fejezetek/regresszioasokasagban/</guid><description/></item><item><title>Regressziós modellek alternatív becslési lehetőségei</title><link>https://tamas-ferenci.github.io/medstat/oktatas_fejezetek/regressziosmodellezes_fejezetek/altbecsles/</link><pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate><guid>https://tamas-ferenci.github.io/medstat/oktatas_fejezetek/regressziosmodellezes_fejezetek/altbecsles/</guid><description/></item><item><title>Többváltozós (vektor értékű) idősorok</title><link>https://tamas-ferenci.github.io/medstat/oktatas_fejezetek/idosorelemzes_fejezetek/tobbvaltozos/</link><pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate><guid>https://tamas-ferenci.github.io/medstat/oktatas_fejezetek/idosorelemzes_fejezetek/tobbvaltozos/</guid><description/></item></channel></rss>
