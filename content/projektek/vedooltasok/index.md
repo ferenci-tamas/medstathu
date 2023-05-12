@@ -11,6 +11,6 @@ publishDate: 2012-09-04T00:00:00
 
 Ez a blogom [itt](https://vedooltas.blog.hu/2012/09/04/tartalomjegyzek_gyanant) érhető el, a tartalma "könyv" formájában pedig itt: [Ferenci Tamás: Védőoltásokról - a tények alapján](/vakcina/FerenciTamasVedooltasokrolATenyekAlapjan.pdf). A felhasznált irodalmi hivatkozások BibTeX-es formátumban [innen](/vakcina/FerenciTamasVedooltasokrolATenyekAlapjan.bib) tölthetőek le, a grafikonokat készítő R-es program pedig [innen](/vakcina/FerenciTamasVedooltasokrolATenyekAlapjanGrafikonrajzolo.R).
 
-A blog tartalmának nagyon rövid összefoglalójaként [ezt a cikksorozatomat](/vakcina/FerenciTamas_Vedooltasok_1_2_GYTSZ.pdf) tudom ajánlani (Gyermekgyógyászati Továbbképző Szemle, 20:(1) pp. 45-50. és 20:(2) pp. 99-104. 2015).
+A blog tartalmának nagyon rövid összefoglalójaként [ezt a cikksorozatomat](/vakcina/FerenciTamas-Vedooltasok-1-2-GYTSZ.pdf) tudom ajánlani (Gyermekgyógyászati Továbbképző Szemle, 20:(1) pp. 45-50. és 20:(2) pp. 99-104. 2015).
 
 A fenti blogból, a Medicina Kiadó gondozásában "igazi" könyv is készült.

@@ -11,11 +11,11 @@ external_link: ''
 
 links:
   - name: Elektronikus jegyzet
-    url: https://tamas-ferenci.github.io/FerenciTamas_AzOrvosiMegismeresModszertanaEsAzOrvosiKutatasokKritikusErtekelese/
+    url: https://tamas-ferenci.github.io/FerenciTamas-AzOrvosiMegismeresModszertanaEsAzOrvosiKutatasokKritikusErtekelese/
   - name: PDF
-    url: https://tamas-ferenci.github.io/FerenciTamas_AzOrvosiMegismeresModszertanaEsAzOrvosiKutatasokKritikusErtekelese/FerenciTamas_AzOrvosiMegismeresModszertanaEsAzOrvosiKutatasokKritikusErtekelese.pdf
+    url: https://tamas-ferenci.github.io/FerenciTamas-AzOrvosiMegismeresModszertanaEsAzOrvosiKutatasokKritikusErtekelese/FerenciTamas-AzOrvosiMegismeresModszertanaEsAzOrvosiKutatasokKritikusErtekelese.pdf
   - name: EPUB
-    url: https://tamas-ferenci.github.io/FerenciTamas_AzOrvosiMegismeresModszertanaEsAzOrvosiKutatasokKritikusErtekelese/FerenciTamas_AzOrvosiMegismeresModszertanaEsAzOrvosiKutatasokKritikusErtekelese.epub
+    url: https://tamas-ferenci.github.io/FerenciTamas-AzOrvosiMegismeresModszertanaEsAzOrvosiKutatasokKritikusErtekelese/FerenciTamas-AzOrvosiMegismeresModszertanaEsAzOrvosiKutatasokKritikusErtekelese.epub
 
 url_code: ''
 url_pdf: ''
@@ -38,40 +38,40 @@ Különösen fontosnak tartom az orvosi kutatások kritikus értékelésének t�
 
 ## Fejezetek különbontva
 
-{{<cite page="/oktatas_fejezetek/azorvosimegismeresmodszertana_fejezetek/partortenetimegjegyzes" view="2" >}}
+{{<cite page="/oktatas-fejezetek/azorvosimegismeresmodszertana-fejezetek/partortenetimegjegyzes" view="2" >}}
 
-{{<cite page="/oktatas_fejezetek/azorvosimegismeresmodszertana_fejezetek/azempirikusorvosikutatasokalapgondolataesakauzalitas" view="2" >}}
+{{<cite page="/oktatas-fejezetek/azorvosimegismeresmodszertana-fejezetek/azempirikusorvosikutatasokalapgondolataesakauzalitas" view="2" >}}
 
-{{<cite page="/oktatas_fejezetek/azorvosimegismeresmodszertana_fejezetek/aconfoundingproblemaja" view="2" >}}
+{{<cite page="/oktatas-fejezetek/azorvosimegismeresmodszertana-fejezetek/aconfoundingproblemaja" view="2" >}}
 
-{{<cite page="/oktatas_fejezetek/azorvosimegismeresmodszertana_fejezetek/aconfoundingmegoldasai" view="2" >}}
+{{<cite page="/oktatas-fejezetek/azorvosimegismeresmodszertana-fejezetek/aconfoundingmegoldasai" view="2" >}}
 
-{{<cite page="/oktatas_fejezetek/azorvosimegismeresmodszertana_fejezetek/oksagikovetkeztetesek" view="2" >}}
+{{<cite page="/oktatas-fejezetek/azorvosimegismeresmodszertana-fejezetek/oksagikovetkeztetesek" view="2" >}}
 
-{{<cite page="/oktatas_fejezetek/azorvosimegismeresmodszertana_fejezetek/veletlenszerepe" view="2" >}}
+{{<cite page="/oktatas-fejezetek/azorvosimegismeresmodszertana-fejezetek/veletlenszerepe" view="2" >}}
 
-{{<cite page="/oktatas_fejezetek/azorvosimegismeresmodszertana_fejezetek/bizonyitekokhierarchiajaesosszessege" view="2" >}}
+{{<cite page="/oktatas-fejezetek/azorvosimegismeresmodszertana-fejezetek/bizonyitekokhierarchiajaesosszessege" view="2" >}}
 
-{{<cite page="/oktatas_fejezetek/azorvosimegismeresmodszertana_fejezetek/avegpont" view="2" >}}
+{{<cite page="/oktatas-fejezetek/azorvosimegismeresmodszertana-fejezetek/avegpont" view="2" >}}
 
-{{<cite page="/oktatas_fejezetek/azorvosimegismeresmodszertana_fejezetek/megfigyeleses" view="2" >}}
+{{<cite page="/oktatas-fejezetek/azorvosimegismeresmodszertana-fejezetek/megfigyeleses" view="2" >}}
 
-{{<cite page="/oktatas_fejezetek/azorvosimegismeresmodszertana_fejezetek/kiserletes" view="2" >}}
+{{<cite page="/oktatas-fejezetek/azorvosimegismeresmodszertana-fejezetek/kiserletes" view="2" >}}
 
-{{<cite page="/oktatas_fejezetek/azorvosimegismeresmodszertana_fejezetek/metaanalizisek" view="2" >}}
+{{<cite page="/oktatas-fejezetek/azorvosimegismeresmodszertana-fejezetek/metaanalizisek" view="2" >}}
 
-{{<cite page="/oktatas_fejezetek/azorvosimegismeresmodszertana_fejezetek/kovetkeztetostatisztika" view="2" >}}
+{{<cite page="/oktatas-fejezetek/azorvosimegismeresmodszertana-fejezetek/kovetkeztetostatisztika" view="2" >}}
 
-{{<cite page="/oktatas_fejezetek/azorvosimegismeresmodszertana_fejezetek/pertekfelreertesek" view="2" >}}
+{{<cite page="/oktatas-fejezetek/azorvosimegismeresmodszertana-fejezetek/pertekfelreertesek" view="2" >}}
 
-{{<cite page="/oktatas_fejezetek/azorvosimegismeresmodszertana_fejezetek/klinesmatszignifikancia" view="2" >}}
+{{<cite page="/oktatas-fejezetek/azorvosimegismeresmodszertana-fejezetek/klinesmatszignifikancia" view="2" >}}
 
-{{<cite page="/oktatas_fejezetek/azorvosimegismeresmodszertana_fejezetek/szignifikanciavadaszat" view="2" >}}
+{{<cite page="/oktatas-fejezetek/azorvosimegismeresmodszertana-fejezetek/szignifikanciavadaszat" view="2" >}}
 
-{{<cite page="/oktatas_fejezetek/azorvosimegismeresmodszertana_fejezetek/statisztikaimodellek" view="2" >}}
+{{<cite page="/oktatas-fejezetek/azorvosimegismeresmodszertana-fejezetek/statisztikaimodellek" view="2" >}}
 
-{{<cite page="/oktatas_fejezetek/azorvosimegismeresmodszertana_fejezetek/rendszerszintuproblemak" view="2" >}}
+{{<cite page="/oktatas-fejezetek/azorvosimegismeresmodszertana-fejezetek/rendszerszintuproblemak" view="2" >}}
 
-{{<cite page="/oktatas_fejezetek/azorvosimegismeresmodszertana_fejezetek/pertekhipotezisteszteles" view="2" >}}
+{{<cite page="/oktatas-fejezetek/azorvosimegismeresmodszertana-fejezetek/pertekhipotezisteszteles" view="2" >}}
 
-{{<cite page="/oktatas_fejezetek/azorvosimegismeresmodszertana_fejezetek/astatisztikahatarai" view="2" >}}
+{{<cite page="/oktatas-fejezetek/azorvosimegismeresmodszertana-fejezetek/astatisztikahatarai" view="2" >}}

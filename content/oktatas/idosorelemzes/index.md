@@ -13,7 +13,7 @@ date: '2023-05-05T00:00:00Z'
 external_link: ''
 
 url_code: ''
-url_pdf: 'oktatas/Idosorelemzes/FerenciTamas_Idosorelemzes.pdf'
+url_pdf: 'oktatas/Idosorelemzes/FerenciTamas-Idosorelemzes.pdf'
 url_slides: ''
 url_video: 'https://www.youtube.com/@FerenciTamas/playlists?view=50&sort=dd&shelf_id=6'
 
@@ -26,24 +26,24 @@ slides: ""
 weight: -140
 ---
 
-{{<cite page="/oktatas_fejezetek/idosorelemzes_fejezetek/alapok" view="2" >}}
+{{<cite page="/oktatas-fejezetek/idosorelemzes-fejezetek/alapok" view="2" >}}
 
-{{<cite page="/oktatas_fejezetek/idosorelemzes_fejezetek/determinisztikus" view="2" >}}
+{{<cite page="/oktatas-fejezetek/idosorelemzes-fejezetek/determinisztikus" view="2" >}}
 
-{{<cite page="/oktatas_fejezetek/idosorelemzes_fejezetek/szures" view="2" >}}
+{{<cite page="/oktatas-fejezetek/idosorelemzes-fejezetek/szures" view="2" >}}
 
-{{<cite page="/oktatas_fejezetek/idosorelemzes_fejezetek/stacionaritas" view="2" >}}
+{{<cite page="/oktatas-fejezetek/idosorelemzes-fejezetek/stacionaritas" view="2" >}}
 
-{{<cite page="/oktatas_fejezetek/idosorelemzes_fejezetek/sztochasztikus" view="2" >}}
+{{<cite page="/oktatas-fejezetek/idosorelemzes-fejezetek/sztochasztikus" view="2" >}}
 
-{{<cite page="/oktatas_fejezetek/idosorelemzes_fejezetek/kesleltetesipolinom" view="2" >}}
+{{<cite page="/oktatas-fejezetek/idosorelemzes-fejezetek/kesleltetesipolinom" view="2" >}}
 
-{{<cite page="/oktatas_fejezetek/idosorelemzes_fejezetek/stacteszt" view="2" >}}
+{{<cite page="/oktatas-fejezetek/idosorelemzes-fejezetek/stacteszt" view="2" >}}
 
-{{<cite page="/oktatas_fejezetek/idosorelemzes_fejezetek/nemstackezeles" view="2" >}}
+{{<cite page="/oktatas-fejezetek/idosorelemzes-fejezetek/nemstackezeles" view="2" >}}
 
-{{<cite page="/oktatas_fejezetek/idosorelemzes_fejezetek/boxjenkins" view="2" >}}
+{{<cite page="/oktatas-fejezetek/idosorelemzes-fejezetek/boxjenkins" view="2" >}}
 
-{{<cite page="/oktatas_fejezetek/idosorelemzes_fejezetek/regresszio" view="2" >}}
+{{<cite page="/oktatas-fejezetek/idosorelemzes-fejezetek/idosorregresszio" view="2" >}}
 
-{{<cite page="/oktatas_fejezetek/idosorelemzes_fejezetek/tobbvaltozos" view="2" >}}
+{{<cite page="/oktatas-fejezetek/idosorelemzes-fejezetek/tobbvaltozos" view="2" >}}

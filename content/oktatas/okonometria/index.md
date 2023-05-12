@@ -24,7 +24,7 @@ slides: ""
 weight: -120
 ---
 
-{{<cite page="/oktatas_fejezetek/okonometria_fejezetek/azokonometriaalapjai" view="2" >}}
+{{<cite page="/oktatas-fejezetek/okonometria-fejezetek/azokonometriaalapjai" view="2" >}}
 
 {{<cite page="/oktatas/regressziosmodellezes" view="2" >}}
 
