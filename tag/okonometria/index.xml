@@ -896,4 +896,78 @@ Videó&lt;/a>
 &lt;/div>
 &lt;div class="ml-3">
 &lt;/div>
+&lt;/div>
+&lt;div class="media stream-item view-compact">
+&lt;div class="media-body">
+&lt;div class="section-subheading article-title mb-0 mt-0">
+&lt;a href="https://www.medstat.hu/oktatas/regressziosmodellezes/" >Regressziós modellezés&lt;/a>
+&lt;/div>
+&lt;a href="https://www.medstat.hu/oktatas/regressziosmodellezes/" class="summary-link">
+&lt;div class="article-style">
+A regressziós modellezés, több egyéb alkalmazása mellett, a talán legfontosabb eszköz minden olyan téren (orvostudománytól a társadalmi-gazdasági elemzésekig) ahol megfigyeléses adatok elemzésére van szükség.
+&lt;/div>
+&lt;/a>
+&lt;div class="stream-meta article-metadata">
+&lt;div class="article-metadata">
+&lt;div>
+&lt;span >
+Ferenci Tamás&lt;/span>
+&lt;/div>
+&lt;span class="article-date">
+2023. március 24.
+&lt;/span>
+&lt;/div>
+&lt;/div>
+&lt;div class="btn-links">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.medstat.hu/oktatas/RegressziosModellezes/FerenciTamas_RegressziosModellezes.pdf" target="_blank" rel="noopener">
+PDF
+&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.youtube.com/@FerenciTamas/playlists?view=50&amp;amp;sort=dd&amp;amp;shelf_id=5" target="_blank" rel="noopener">
+Videó
+&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="ml-3">
+&lt;a href="https://www.medstat.hu/oktatas/regressziosmodellezes/" >
+&lt;img src="https://www.medstat.hu/oktatas/regressziosmodellezes/featured_hu3ff3d48e9586434a568732c2fb932799_7788343_150x0_resize_q75_h2_lanczos_3.webp" height="84" width="150"
+alt="Regressziós modellezés" loading="lazy">
+&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="media stream-item view-compact">
+&lt;div class="media-body">
+&lt;div class="section-subheading article-title mb-0 mt-0">
+&lt;a href="https://www.medstat.hu/oktatas/idosorelemzes/" >Idősorelemzés&lt;/a>
+&lt;/div>
+&lt;a href="https://www.medstat.hu/oktatas/idosorelemzes/" class="summary-link">
+&lt;div class="article-style">
+Az idősorelemzés gyakorlati jelentősége hatalmas, már pusztán abból fakadóan is, hogy számos adat &amp;ndash; különösen a közgazdaságtan területén &amp;ndash; eredendően idősorként áll rendelkezésre.
+&lt;/div>
+&lt;/a>
+&lt;div class="stream-meta article-metadata">
+&lt;div class="article-metadata">
+&lt;div>
+&lt;span >
+Ferenci Tamás&lt;/span>
+&lt;/div>
+&lt;span class="article-date">
+2023. május 5.
+&lt;/span>
+&lt;/div>
+&lt;/div>
+&lt;div class="btn-links">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.medstat.hu/oktatas/Idosorelemzes/FerenciTamas_Idosorelemzes.pdf" target="_blank" rel="noopener">
+PDF
+&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.youtube.com/@FerenciTamas/playlists?view=50&amp;amp;sort=dd&amp;amp;shelf_id=6" target="_blank" rel="noopener">
+Videó
+&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="ml-3">
+&lt;a href="https://www.medstat.hu/oktatas/idosorelemzes/" >
+&lt;img src="https://www.medstat.hu/oktatas/idosorelemzes/featured_hu1ab167efb19aaddebb910c1457f68112_3020775_150x0_resize_q75_h2_lanczos.webp" height="84" width="150"
+alt="Idősorelemzés" loading="lazy">
+&lt;/a>
+&lt;/div>
 &lt;/div></description></item><item><title>Az ökonometria alapjai</title><link>https://www.medstat.hu/oktatas_fejezetek/okonometria_fejezetek/azokonometriaalapjai/</link><pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate><guid>https://www.medstat.hu/oktatas_fejezetek/okonometria_fejezetek/azokonometriaalapjai/</guid><description/></item><item><title>A homoszkedaszticitás és sérülése</title><link>https://www.medstat.hu/oktatas_fejezetek/regressziosmodellezes_fejezetek/homoszkedaszticitas/</link><pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate><guid>https://www.medstat.hu/oktatas_fejezetek/regressziosmodellezes_fejezetek/homoszkedaszticitas/</guid><description/></item><item><title>A lineáris regresszió</title><link>https://www.medstat.hu/oktatas_fejezetek/regressziosmodellezes_fejezetek/alinearisregresszio/</link><pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate><guid>https://www.medstat.hu/oktatas_fejezetek/regressziosmodellezes_fejezetek/alinearisregresszio/</guid><description/></item><item><title>A lineáris regressziós modell becslése mintából, vektoros-mátrixos formalizmus, az OLS-becslő</title><link>https://www.medstat.hu/oktatas_fejezetek/regressziosmodellezes_fejezetek/alinearisregressziosmodellbecslese/</link><pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate><guid>https://www.medstat.hu/oktatas_fejezetek/regressziosmodellezes_fejezetek/alinearisregressziosmodellbecslese/</guid><description/></item><item><title>A modellszelekció kérdései</title><link>https://www.medstat.hu/oktatas_fejezetek/regressziosmodellezes_fejezetek/modellszelekcio/</link><pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate><guid>https://www.medstat.hu/oktatas_fejezetek/regressziosmodellezes_fejezetek/modellszelekcio/</guid><description/></item><item><title>A multikollinearitás</title><link>https://www.medstat.hu/oktatas_fejezetek/regressziosmodellezes_fejezetek/amultikollinearitas/</link><pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate><guid>https://www.medstat.hu/oktatas_fejezetek/regressziosmodellezes_fejezetek/amultikollinearitas/</guid><description/></item><item><title>A nemstacionaritás kezelése: stacionarizálás, trend- és differenciastacioner idősorok, differenciázás, ARIMA-folyamat</title><link>https://www.medstat.hu/oktatas_fejezetek/idosorelemzes_fejezetek/nemstackezeles/</link><pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate><guid>https://www.medstat.hu/oktatas_fejezetek/idosorelemzes_fejezetek/nemstackezeles/</guid><description/></item><item><title>A stacionaritás és az ergodicitás fogalma</title><link>https://www.medstat.hu/oktatas_fejezetek/idosorelemzes_fejezetek/stacionaritas/</link><pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate><guid>https://www.medstat.hu/oktatas_fejezetek/idosorelemzes_fejezetek/stacionaritas/</guid><description/></item><item><title>A stacionaritás tesztelése</title><link>https://www.medstat.hu/oktatas_fejezetek/idosorelemzes_fejezetek/stacteszt/</link><pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate><guid>https://www.medstat.hu/oktatas_fejezetek/idosorelemzes_fejezetek/stacteszt/</guid><description/></item><item><title>A sztochasztikus idősormodellezési filozófia, és alapelemei: a fehérzaj-, az AR-, az MA- és ARMA-folyamatok</title><link>https://www.medstat.hu/oktatas_fejezetek/idosorelemzes_fejezetek/sztochasztikus/</link><pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate><guid>https://www.medstat.hu/oktatas_fejezetek/idosorelemzes_fejezetek/sztochasztikus/</guid><description/></item><item><title>Az általánosított lineáris modell (GLM)</title><link>https://www.medstat.hu/oktatas_fejezetek/regressziosmodellezes_fejezetek/glm/</link><pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate><guid>https://www.medstat.hu/oktatas_fejezetek/regressziosmodellezes_fejezetek/glm/</guid><description/></item><item><title>Az exogenitás és sérülése</title><link>https://www.medstat.hu/oktatas_fejezetek/regressziosmodellezes_fejezetek/exogenitas/</link><pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate><guid>https://www.medstat.hu/oktatas_fejezetek/regressziosmodellezes_fejezetek/exogenitas/</guid><description/></item><item><title>Az idősorelemzés alapjai</title><link>https://www.medstat.hu/oktatas_fejezetek/idosorelemzes_fejezetek/alapok/</link><pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate><guid>https://www.medstat.hu/oktatas_fejezetek/idosorelemzes_fejezetek/alapok/</guid><description/></item><item><title>Az OLS becslő modellfeltevései és az OLS szolgáltatta becslések statisztikai tulajdonságai</title><link>https://www.medstat.hu/oktatas_fejezetek/regressziosmodellezes_fejezetek/azolsbecslomodellfeltevesei/</link><pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate><guid>https://www.medstat.hu/oktatas_fejezetek/regressziosmodellezes_fejezetek/azolsbecslomodellfeltevesei/</guid><description/></item><item><title>Box-Jenkins eljárás, előrejelzés készítése</title><link>https://www.medstat.hu/oktatas_fejezetek/idosorelemzes_fejezetek/boxjenkins/</link><pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate><guid>https://www.medstat.hu/oktatas_fejezetek/idosorelemzes_fejezetek/boxjenkins/</guid><description/></item><item><title>Determinisztikus idősorelemzés, dekompozíciós idősormodellek: trend, szezonalitás és ciklus</title><link>https://www.medstat.hu/oktatas_fejezetek/idosorelemzes_fejezetek/determinisztikus/</link><pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate><guid>https://www.medstat.hu/oktatas_fejezetek/idosorelemzes_fejezetek/determinisztikus/</guid><description/></item><item><title>Hipotézisvizsgálat és intervallumbecslés lineáris modellben</title><link>https://www.medstat.hu/oktatas_fejezetek/regressziosmodellezes_fejezetek/hipvizsgesintervallumbecsles/</link><pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate><guid>https://www.medstat.hu/oktatas_fejezetek/regressziosmodellezes_fejezetek/hipvizsgesintervallumbecsles/</guid><description/></item><item><title>Idősorok regressziója</title><link>https://www.medstat.hu/oktatas_fejezetek/idosorelemzes_fejezetek/regresszio/</link><pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate><guid>https://www.medstat.hu/oktatas_fejezetek/idosorelemzes_fejezetek/regresszio/</guid><description/></item><item><title>Idősorok szűrése</title><link>https://www.medstat.hu/oktatas_fejezetek/idosorelemzes_fejezetek/szures/</link><pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate><guid>https://www.medstat.hu/oktatas_fejezetek/idosorelemzes_fejezetek/szures/</guid><description/></item><item><title>Kategoriális eredményváltozó modellezése: a logisztikus regresszió és változatai</title><link>https://www.medstat.hu/oktatas_fejezetek/regressziosmodellezes_fejezetek/logisztikusregresszio/</link><pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate><guid>https://www.medstat.hu/oktatas_fejezetek/regressziosmodellezes_fejezetek/logisztikusregresszio/</guid><description/></item><item><title>Kategoriális magyarázó változók</title><link>https://www.medstat.hu/oktatas_fejezetek/regressziosmodellezes_fejezetek/kategorialismagyarazovaltozok/</link><pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate><guid>https://www.medstat.hu/oktatas_fejezetek/regressziosmodellezes_fejezetek/kategorialismagyarazovaltozok/</guid><description/></item><item><title>Késleltetési operátor és polinom, ARMA-folyamatok felírása késleltetési polinommal, az ARMA-folyamatok stacionaritása</title><link>https://www.medstat.hu/oktatas_fejezetek/idosorelemzes_fejezetek/kesleltetesipolinom/</link><pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate><guid>https://www.medstat.hu/oktatas_fejezetek/idosorelemzes_fejezetek/kesleltetesipolinom/</guid><description/></item><item><title>Linearitás és feloldása, nemlineáris modellek</title><link>https://www.medstat.hu/oktatas_fejezetek/regressziosmodellezes_fejezetek/linearitasesfeloldasa/</link><pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate><guid>https://www.medstat.hu/oktatas_fejezetek/regressziosmodellezes_fejezetek/linearitasesfeloldasa/</guid><description/></item><item><title>Regresszió a sokaságban: a feladat megfogalmazása, megoldása és modellminősítés</title><link>https://www.medstat.hu/oktatas_fejezetek/regressziosmodellezes_fejezetek/regresszioasokasagban/</link><pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate><guid>https://www.medstat.hu/oktatas_fejezetek/regressziosmodellezes_fejezetek/regresszioasokasagban/</guid><description/></item><item><title>Regressziós modellek alternatív becslési lehetőségei</title><link>https://www.medstat.hu/oktatas_fejezetek/regressziosmodellezes_fejezetek/altbecsles/</link><pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate><guid>https://www.medstat.hu/oktatas_fejezetek/regressziosmodellezes_fejezetek/altbecsles/</guid><description/></item><item><title>Többváltozós (vektor értékű) idősorok</title><link>https://www.medstat.hu/oktatas_fejezetek/idosorelemzes_fejezetek/tobbvaltozos/</link><pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate><guid>https://www.medstat.hu/oktatas_fejezetek/idosorelemzes_fejezetek/tobbvaltozos/</guid><description/></item></channel></rss>
