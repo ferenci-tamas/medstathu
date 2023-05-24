@@ -13,9 +13,9 @@ links:
   - name: Elektronikus jegyzet
     url: https://tamas-ferenci.github.io/FerenciTamas_AzOrvosiMegismeresModszertanaEsAzOrvosiKutatasokKritikusErtekelese/
   - name: PDF
-    url: https://tamas-ferenci.github.io/FerenciTamas_AzOrvosiMegismeresModszertanaEsAzOrvosiKutatasokKritikusErtekelese/FerenciTamas-AzOrvosiMegismeresModszertanaEsAzOrvosiKutatasokKritikusErtekelese.pdf
+    url: https://tamas-ferenci.github.io/FerenciTamas_AzOrvosiMegismeresModszertanaEsAzOrvosiKutatasokKritikusErtekelese/FerenciTamas_AzOrvosiMegismeresModszertanaEsAzOrvosiKutatasokKritikusErtekelese.pdf
   - name: EPUB
-    url: https://tamas-ferenci.github.io/FerenciTamas_AzOrvosiMegismeresModszertanaEsAzOrvosiKutatasokKritikusErtekelese/FerenciTamas-AzOrvosiMegismeresModszertanaEsAzOrvosiKutatasokKritikusErtekelese.epub
+    url: https://tamas-ferenci.github.io/FerenciTamas_AzOrvosiMegismeresModszertanaEsAzOrvosiKutatasokKritikusErtekelese/FerenciTamas_AzOrvosiMegismeresModszertanaEsAzOrvosiKutatasokKritikusErtekelese.epub
 
 url_code: ''
 url_pdf: ''
