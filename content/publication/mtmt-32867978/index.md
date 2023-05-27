@@ -11,9 +11,6 @@ authors:
 - Anikó Szabóné Póth
 - Péter Vajer
 - Péter Andréka
-tags:
-- ASPIRIN; treatment; Clopidogrel; acute coronary syndrome; kezelés; ticagrelor; prasugrel;
-  adherencia; adherence to medication; acut coronaria szindróma
 categories: []
 date: '2022-01-01'
 lastmod: 2023-04-10T20:20:11+02:00
