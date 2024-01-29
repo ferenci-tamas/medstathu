@@ -1,38 +1,17 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: 'Effects of obesity: a multivariate analysis of laboratory parameters'
-subtitle: ''
-summary: ''
 authors:
 - Tamás Ferenci
 - Zsuzsanna Almássy
 - Adalbert Kovács
 - Levente Kovács
-tags: []
-categories: []
 date: '2011-01-01'
-lastmod: 2023-04-10T20:23:04+02:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2023-04-10T18:23:04.065145Z'
+publishDate: '2024-01-29T15:58:21.620946Z'
 publication_types:
-- '1'
+- paper-conference
+publication: '*6th International Symposium on Applied Computational Intelligence and
+  Informatics (SACI 2011)*'
+doi: 10.1109/SACI.2011.5873079
 abstract: 'It is well-known that obesity has a marked effect on many of the routinely
   used laboratory parameters. An obvious example is the serum level of various blood
   lipids: hyperlipidemia, hypercholesteremia are often observed in obese people. Our
@@ -51,9 +30,6 @@ abstract: 'It is well-known that obesity has a marked effect on many of the rout
   were further analyzed by agglomerative hierarchical clustering of the variables.
   These all confirmed that stochastically connected laboratory parameters – with different
   physiological interpretation – can be in fact identified.'
-publication: '*6th International Symposium on Applied Computational Intelligence and
-  Informatics (SACI 2011)*'
-doi: 10.1109/SACI.2011.5873079
 links:
 - name: URL
   url: https://m2.mtmt.hu/api/publication/2663758

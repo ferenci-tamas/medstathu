@@ -1,44 +1,22 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: Evaluation of Isolation Area, Myocardial Injury and Left Atrial Function Following
   High-Power Short-Duration Radiofrequency or Second-Generation Cryoballoon Ablation
   for Atrial Fibrillation
-subtitle: ''
-summary: ''
 authors:
 - Krisztián István Kássa
-- Zsofia Nagy
+- Zsófia Nagy
 - Daniel Simkovits
 - Zsuzsanna Kis
 - Tamás Ferenci
 - Zoltan Som
 - Csaba Foldesi
 - Attila Kardos
-tags: []
-categories: []
 date: '2022-01-01'
-lastmod: 2023-04-10T20:20:12+02:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2023-04-10T18:20:11.570653Z'
+publishDate: '2024-01-29T15:58:19.851508Z'
 publication_types:
-- '2'
+- article-journal
+publication: '*JOURNAL OF CARDIOVASCULAR DEVELOPMENT AND DISEASE*'
+doi: 10.3390/jcdd9100327
 abstract: 'This randomized study aims to compare the left atrial (LA) lesion size,
   function, and tissue damage following pulmonary vein isolation (PVI) by high-power
   short-duration (HPSD) radiofrequency (RF) and second-generation cryoballoon (CB2)
@@ -60,8 +38,6 @@ abstract: 'This randomized study aims to compare the left atrial (LA) lesion siz
   size compared to “point-by-point” HPSD radiofrequency. Both techniques preserve
   LA function. The myocardial component of tissue loss appears to be higher using
   HPSD radiofrequency ablation, with less collateral damage.'
-publication: '*JOURNAL OF CARDIOVASCULAR DEVELOPMENT AND DISEASE*'
-doi: 10.3390/jcdd9100327
 links:
 - name: URL
   url: https://m2.mtmt.hu/api/publication/33199112

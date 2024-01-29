@@ -1,40 +1,16 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: Potentials, challenges, and limitations of the analysis of administrative data
   on vascular limb amputations in health care
-subtitle: ''
-summary: ''
 authors:
 - Endre Kolossváry
 - Tamás Ferenci
 - Tamás Kováts
-tags:
-- health care quality indicators; Health care administrative data analysis; vascular
-  lower limb amputation
-categories: []
 date: '2019-01-01'
-lastmod: 2023-04-10T20:20:59+02:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2023-04-10T18:20:58.510032Z'
+publishDate: '2024-01-29T15:58:20.342025Z'
 publication_types:
-- '2'
+- article-journal
+publication: '*VASA: ZEITSCHRIFT FUR GEFAESSKRANKHEITEN / JOURNAL OF VASCULAR DISEASES*'
+doi: 10.1024/0301-1526/a000823
 abstract: Although more and more data on lower limb amputations are becoming available
   by leveraging the widening access to health care administrative databases, the applicability
   of these data for public health decisions is still limited. Problems can be traced
@@ -59,8 +35,9 @@ abstract: Although more and more data on lower limb amputations are becoming ava
   final interpretations of results and the countermeasures on the level of vascular
   care ought to be grounded on the integrity of research, open discussions and institutionalized
   mechanisms of science arbitration and honest brokering.
-publication: '*VASA: ZEITSCHRIFT FUR GEFAESSKRANKHEITEN / JOURNAL OF VASCULAR DISEASES*'
-doi: 10.1024/0301-1526/a000823
+tags:
+- health care quality indicators; Health care administrative data analysis; vascular
+  lower limb amputation
 links:
 - name: URL
   url: https://m2.mtmt.hu/api/publication/30865428

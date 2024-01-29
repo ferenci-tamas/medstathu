@@ -1,38 +1,16 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: The Use of Extreme Value Statistics to Characterize Blood Glucose Curves and
   Patient Level Risk Assessment of Patients With Type I Diabetes
-subtitle: ''
-summary: ''
 authors:
 - Mátyás Szigeti
 - Tamás Ferenci
 - Levente Kovács
-tags: []
-categories: []
 date: '2021-01-01'
-lastmod: 2023-04-10T20:20:29+02:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2023-04-10T18:20:28.477118Z'
+publishDate: '2024-01-29T15:58:20.040727Z'
 publication_types:
-- '2'
+- article-journal
+publication: '*JOURNAL OF DIABETES SCIENCE AND TECHNOLOGY*'
+doi: 10.1177/19322968211059547
 abstract: 'Objective:Characterizing blood glucose curves and providing precise patient
   level risk assessment of hyperglycemia using extreme value statistics and comparing
   these assessments with traditional indicators of glycemic variability which are
@@ -52,8 +30,6 @@ abstract: 'Objective:Characterizing blood glucose curves and providing precise p
   assessment of the impact of clinical characteristics and treatments on blood glucose
   control in a novel, mathematically well-founded and potentially clinically more
   useful way than the already existing indicators.'
-publication: '*JOURNAL OF DIABETES SCIENCE AND TECHNOLOGY*'
-doi: 10.1177/19322968211059547
 links:
 - name: URL
   url: https://m2.mtmt.hu/api/publication/32555954

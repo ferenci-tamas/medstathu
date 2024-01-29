@@ -1,10 +1,6 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: Hepatic fibrosis and factors associated with liver stiffness in HIV mono-infected
   individuals
-subtitle: ''
-summary: ''
 authors:
 - Mihály Sulyok
 - Tamás Ferenci
@@ -16,32 +12,12 @@ authors:
 - Zsuzsanna Gerlei
 - Zita Sulyok
 - István Vályi-Nagy
-tags:
-- HIV; Ageing; liver fibrosis; lipodystrophy; Elasticity Imaging Techniques; Antiretroviral
-  therapy; Bayesian model averaging
-categories: []
 date: '2017-01-01'
-lastmod: 2023-04-10T20:21:47+02:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2023-04-10T18:21:47.079999Z'
+publishDate: '2024-01-29T15:58:20.889427Z'
 publication_types:
-- '2'
+- article-journal
+publication: '*PEERJ*'
+doi: 10.7717/peerj.2867
 abstract: 'Background Liver disease has become an important cause of morbidity and
   mortality even in those HIV-infected individuals who are devoid of hepatitis virus
   co-infection. The aim of this study was to evaluate the degree of hepatic fibrosis
@@ -62,8 +38,9 @@ abstract: 'Background Liver disease has become an important cause of morbidity a
   of ageing, overweight and HIV-induced immune dysregulation in the development of
   liver fibrosis in the HIV-infected population. Nonetheless, further controlled studies
   are warranted to clarify causal relations.'
-publication: '*PEERJ*'
-doi: 10.7717/peerj.2867
+tags:
+- HIV; Ageing; liver fibrosis; lipodystrophy; Elasticity Imaging Techniques; Antiretroviral
+  therapy; Bayesian model averaging
 links:
 - name: URL
   url: https://m2.mtmt.hu/api/publication/3164928

@@ -1,10 +1,6 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: Comparison of management and outcomes of ST-segment elevation myocardial infarction
   patients in Estonia, Hungary, Norway, and Sweden according to national ongoing registries
-subtitle: ''
-summary: ''
 authors:
 - Mai Blöndal
 - Tiia Ainla
@@ -23,32 +19,12 @@ authors:
 - Tamás Ferenci
 - Péter Andréka
 - András Jánosi
-tags:
-- MORTALITY; Real-world evidence; ST-segment elevation myocardial infarction; Registry
-  study
-categories: []
 date: '2022-01-01'
-lastmod: 2023-04-10T20:20:05+02:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2023-04-10T18:20:05.118929Z'
+publishDate: '2024-01-29T15:58:19.774306Z'
 publication_types:
-- '2'
+- article-journal
+publication: '*EUROPEAN HEART JOURNAL - QUALITY OF CARE AND CLINICAL OUTCOMES*'
+doi: 10.1093/ehjqcco/qcaa098
 abstract: Describe the characteristics, management and outcomes of hospitalized ST-segment
   elevation myocardial infarction (STEMI) patients according to national ongoing myocardial
   infarction registries in Estonia, Hungary, Norway, and Sweden.Country-level aggregated
@@ -71,8 +47,9 @@ abstract: Describe the characteristics, management and outcomes of hospitalized 
   management and outcomes of patients with STEMI. There are several possible reasons
   for the findings, including coverage of the registries and variability of baseline-characteristics’
   definitions that need to be further explored.
-publication: '*EUROPEAN HEART JOURNAL - QUALITY OF CARE AND CLINICAL OUTCOMES*'
-doi: 10.1093/ehjqcco/qcaa098
+tags:
+- MORTALITY; Real-world evidence; ST-segment elevation myocardial infarction; Registry
+  study
 links:
 - name: URL
   url: https://m2.mtmt.hu/api/publication/31937161

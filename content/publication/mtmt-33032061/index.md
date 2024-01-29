@@ -1,10 +1,6 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: 'Health outcomes associated with micronutrient-fortified complementary foods
   in infants and young children aged 6-23 months: a systematic review and meta-analysis'
-subtitle: ''
-summary: ''
 authors:
 - Ildikó Csölle
 - Regina Heidinger-Felső
@@ -13,30 +9,12 @@ authors:
 - Lukas Schwingshackl
 - Tamás Ferenci
 - Szimonetta Lohner
-tags: []
-categories: []
 date: '2022-01-01'
-lastmod: 2023-04-10T20:20:06+02:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2023-04-10T18:20:05.778926Z'
+publishDate: '2024-01-29T15:58:19.782304Z'
 publication_types:
-- '2'
+- article-journal
+publication: '*LANCET CHILD & ADOLESCENT HEALTH*'
+doi: 10.1016/S2352-4642(22)00147-X
 abstract: Appropriate feeding of infants and young children is essential for healthy
   growth and the prevention of stunting, wasting, and overweight. We aimed to assess
   the beneficial versus harmful effects of providing fortified complementary foods
@@ -80,8 +58,6 @@ abstract: Appropriate feeding of infants and young children is essential for hea
   of complementary food fortification should be further investigated in low-income
   and middle-income countries, but should also be assessed in high-income countries,
   and in regions where malaria is not endemic.WHO.
-publication: '*LANCET CHILD & ADOLESCENT HEALTH*'
-doi: 10.1016/S2352-4642(22)00147-X
 links:
 - name: URL
   url: https://m2.mtmt.hu/api/publication/33032061

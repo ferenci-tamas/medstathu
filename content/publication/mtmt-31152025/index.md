@@ -1,9 +1,5 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: The changing epidemiology of infective endocarditis in a tertiary center
-subtitle: ''
-summary: ''
 authors:
 - M Denes
 - A Bence
@@ -12,31 +8,13 @@ authors:
 - G Prinz
 - A Temesvari
 - M Vertesaljai
-- P Andreka
-tags: []
-categories: []
+- Péter Andréka
 date: '2020-01-01'
-lastmod: 2023-04-10T20:20:31+02:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2023-04-10T18:20:31.085946Z'
+publishDate: '2024-01-29T15:58:20.073676Z'
 publication_types:
-- '2'
+- article-journal
+publication: '*EUROPEAN HEART JOURNAL-CARDIOVASCULAR IMAGING*'
+doi: 10.1093/ehjci/jez319.199
 abstract: 'Despite the adequate antibiotic prophylaxis, the incidence and mortality
   rate of infective endocarditis (IE) is still high. In the past few decades, several
   studies have noted an increase in the proportion of IE caused by staphylococcal
@@ -72,8 +50,6 @@ abstract: 'Despite the adequate antibiotic prophylaxis, the incidence and mortal
   were streptococci, and the rate of Staphylococcus aureus infection was increased
   over time, which was associated with a worse prognosis. In addition IE had a high
   mortality, which unfortunately did not improve through the years.'
-publication: '*EUROPEAN HEART JOURNAL-CARDIOVASCULAR IMAGING*'
-doi: 10.1093/ehjci/jez319.199
 links:
 - name: URL
   url: https://m2.mtmt.hu/api/publication/31152025

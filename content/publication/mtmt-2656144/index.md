@@ -1,10 +1,6 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: Differences in the Laboratory Parameters of Obese and Healthy Hungarian Children
   And Their Use in Automatic Classification
-subtitle: ''
-summary: ''
 authors:
 - Tamás Ferenci
 - Levente Kovács
@@ -12,31 +8,10 @@ authors:
 - László Szilágyi
 - Balázs István Benyó
 - Zoltán Benyó
-tags: []
-categories: []
 date: '2010-01-01'
-lastmod: 2023-04-10T20:23:11+02:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2023-04-10T18:23:10.547690Z'
+publishDate: '2024-01-29T15:58:21.673805Z'
 publication_types:
-- '1'
-abstract: ''
+- paper-conference
 publication: '*IEEE Engineering in Medicine and Biology Society Conference Proceedings*'
 doi: 10.1109/IEMBS.2010.5627672
 links:

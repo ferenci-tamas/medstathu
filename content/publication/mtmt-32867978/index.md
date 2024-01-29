@@ -1,9 +1,6 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: A thrombocytaaggregáció-gátló kezelés gyakorlata heveny szívinfarktusban.
-subtitle: ''
-summary: ''
+title: A thrombocytaaggregáció-gátló kezelés gyakorlata heveny szívinfarktusban [Practice
+  of antiplatelet therapy in acute myocardial infarction]
 authors:
 - András Jánosi
 - Tamás Ferenci
@@ -11,29 +8,12 @@ authors:
 - Anikó Szabóné Póth
 - Péter Vajer
 - Péter Andréka
-categories: []
 date: '2022-01-01'
-lastmod: 2023-04-10T20:20:11+02:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2023-04-10T18:20:10.921342Z'
+publishDate: '2024-01-29T15:58:19.841555Z'
 publication_types:
-- '2'
+- article-journal
+publication: '*ORVOSI HETILAP*'
+doi: 10.1556/650.2022.32453
 abstract: 'Összefoglaló. Bevezetés: Szívinfarktust túlélt betegeknél a thrombocytaaggregáció-gátló
   (TAG-) kezelésnek fontos szerepe van az újabb ischaemiás események megelőzése szempontjából.
   Célkitűzés: Annak vizsgálata, hogy a kórházi távozás idején a betegek milyen arányban
@@ -83,8 +63,9 @@ abstract: 'Összefoglaló. Bevezetés: Szívinfarktust túlélt betegeknél a th
   of certain antiplatelet drugs varies significantly across different intervention
   centres. More than three-quarters of the patients are adherent to treatment 1 year
   after starting treatment. Orv Hetil. 2022; 163(19): 743-749.'
-publication: '*ORVOSI HETILAP*'
-doi: 10.1556/650.2022.32453
+tags:
+- ASPIRIN; treatment; Clopidogrel; acute coronary syndrome; kezelés; ticagrelor; prasugrel;
+  adherencia; adherence to medication; acut coronaria szindróma
 links:
 - name: URL
   url: https://m2.mtmt.hu/api/publication/32867978

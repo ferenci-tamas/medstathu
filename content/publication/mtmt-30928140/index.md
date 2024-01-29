@@ -1,41 +1,16 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: Patients adherence with fixed dose combinations of renin-angiotensin-aldosterone
   system inhibitors in hypertension
-subtitle: ''
-summary: ''
 authors:
 - Gábor Simonyi
 - Tamás Ferenci
 - Ervin Finta
 - Sándor Balogh
 - M Medvegy
-tags: []
-categories: []
 date: '2019-01-01'
-lastmod: 2023-04-10T20:21:04+02:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2023-04-10T18:21:03.640011Z'
+publishDate: '2024-01-29T15:58:20.391855Z'
 publication_types:
-- '2'
-abstract: ''
+- article-journal
 publication: '*EUROPEAN HEART JOURNAL*'
 doi: 10.1093/eurheartj/ehz745.0952
 links:

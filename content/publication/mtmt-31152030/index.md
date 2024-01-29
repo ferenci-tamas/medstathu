@@ -1,9 +1,5 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: Epidemiology and temporal trends of cardiac device related infective endocarditis
-subtitle: ''
-summary: ''
 authors:
 - M Denes
 - A Bence
@@ -14,31 +10,13 @@ authors:
 - C Foldesi
 - A Temesvari
 - M Vertesaljai
-- P Andreka
-tags: []
-categories: []
+- Péter Andréka
 date: '2020-01-01'
-lastmod: 2023-04-10T20:20:31+02:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2023-04-10T18:20:30.436149Z'
+publishDate: '2024-01-29T15:58:20.063726Z'
 publication_types:
-- '2'
+- article-journal
+publication: '*EUROPEAN HEART JOURNAL-CARDIOVASCULAR IMAGING*'
+doi: 10.1093/ehjci/jez319.251
 abstract: 'Infective endocarditis (IE) is a rare, but life-threatening complication
   of cardiac device implantation. Despite recent preventive strategies, and advances
   in antimicrobial and surgical treatment, morbidity and mortality rates are still
@@ -75,8 +53,6 @@ abstract: 'Infective endocarditis (IE) is a rare, but life-threatening complicat
   same survival as patients with LSNIE, every fourth patient died one year after the
   diagnosis. Almost three-quarter of the infections were caused by Staphylococci,
   and the portion of S. aureus infection increased over time.'
-publication: '*EUROPEAN HEART JOURNAL-CARDIOVASCULAR IMAGING*'
-doi: 10.1093/ehjci/jez319.251
 links:
 - name: URL
   url: https://m2.mtmt.hu/api/publication/31152030
