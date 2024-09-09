@@ -1,6 +1,6 @@
 ---
 title: "Helyreigazítás-figyelő"
-summary: "Ez a weboldalam a magyar online, írott sajtóban 2008 óta megjelent helyreigazítások semleges (az bármiféle szűrés és politikai kommentár nélküli), a 2008-2022 közti időszakra vonatkozóan teljeskörűségre törekvő gyűjteménye, mely az adatbázison túl egyszerű elemzéseket, vizualizációkat is tartalmaz az adatok jobb megértése érdekében."
+summary: "Ez a weboldalam a magyar online, írott sajtóban 2008 óta megjelent helyreigazítások semleges (azaz bármiféle szűrés és politikai kommentár nélküli), a 2008-2022 közti időszakra vonatkozóan teljeskörűségre törekvő gyűjteménye, mely az adatbázison túl egyszerű elemzéseket, vizualizációkat is tartalmaz az adatok jobb megértése érdekében."
 authors:
 - Ferenci Tamás
 
