@@ -11,11 +11,11 @@ publishDate: 2021-02-27T00:00:00
   
 links:
   - name: 'Elektronikus jegyzet'
-    url: 'https://tamas-ferenci.github.io/ferenci-tamas-r-nyelv/'
+    url: 'https://ferenci-tamas.github.io/r-nyelv/'
   - name: 'PDF'
-    url: 'https://tamas-ferenci.github.io/ferenci-tamas-r-nyelv/Ferenci-Tamas-Bevezetes-az-R-nyelv-es-statisztikai-szamitasi-kornyezet-hasznalataba.pdf'
+    url: 'https://ferenci-tamas.github.io/r-nyelv/ferenci-tamas-r-nyelv.pdf'
   - name: 'EPUB'
-    url: 'https://tamas-ferenci.github.io/ferenci-tamas-r-nyelv/Ferenci-Tamas-Bevezetes-az-R-nyelv-es-statisztikai-szamitasi-kornyezet-hasznalataba.epub'
+    url: 'https://ferenci-tamas.github.io/r-nyelv/ferenci-tamas-r-nyelv.epub'
   - name: 'Videó'
     url: 'https://www.youtube.com/@FerenciTamas/playlists?view=50&sort=dd&shelf_id=2'
 

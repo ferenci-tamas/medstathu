@@ -10,11 +10,11 @@ publishDate: 2021-02-26T00:00:00
 
 links:
   - name: Elektronikus jegyzet
-    url: https://tamas-ferenci.github.io/FerenciTamas_AKlinikaiGyogyszervizsgalatokAlapjai/
+    url: https://ferenci-tamas.github.io/klinikai-gyogyszervizsgalat/
   - name: PDF
-    url: https://tamas-ferenci.github.io/FerenciTamas_AKlinikaiGyogyszervizsgalatokAlapjai/FerenciTamas_AKlinikaiGyogyszervizsgalatokAlapjai.pdf
+    url: https://ferenci-tamas.github.io/klinikai-gyogyszervizsgalat/ferenci-tamas-klinikai-gyogyszervizsgalat.pdf
   - name: EPUB
-    url: https://tamas-ferenci.github.io/FerenciTamas_AKlinikaiGyogyszervizsgalatokAlapjai/FerenciTamas_AKlinikaiGyogyszervizsgalatokAlapjai.epub
+    url: https://ferenci-tamas.github.io/klinikai-gyogyszervizsgalat/ferenci-tamas-klinikai-gyogyszervizsgalat.epub
 
 slides: ""
 weight: -20

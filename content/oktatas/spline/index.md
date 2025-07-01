@@ -11,11 +11,11 @@ publishDate: 2021-12-25T00:00:00
   
 links:
   - name: Elektronikus jegyzet
-    url: https://tamas-ferenci.github.io/FerenciTamas_SimitasSplineRegresszioAdditivModellek/
+    url: https://ferenci-tamas.github.io/simitas-spline/
   - name: PDF
-    url: https://tamas-ferenci.github.io/FerenciTamas_SimitasSplineRegresszioAdditivModellek/FerenciTamas_SimitasSplineRegresszioAdditivModellek.pdf
+    url: https://ferenci-tamas.github.io/simitas-spline/ferenci-tamas-simitas-spline.pdf
   - name: EPUB
-    url: https://tamas-ferenci.github.io/FerenciTamas_SimitasSplineRegresszioAdditivModellek/FerenciTamas_SimitasSplineRegresszioAdditivModellek.epub
+    url: https://ferenci-tamas.github.io/simitas-spline/ferenci-tamas-simitas-spline.epub
 
 slides: ""
 weight: -150

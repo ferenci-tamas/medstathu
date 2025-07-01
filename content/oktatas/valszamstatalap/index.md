@@ -12,11 +12,11 @@ publishDate: 2021-02-28T00:00:00
 
 links:
   - name: Elektronikus jegyzet
-    url: https://tamas-ferenci.github.io/FerenciTamas_AValoszinusegszamitasEsAStatisztikaAlapvonalai/
+    url: https://ferenci-tamas.github.io/valoszinusegszamitas-statisztika/
   - name: PDF
-    url: https://tamas-ferenci.github.io/FerenciTamas_AValoszinusegszamitasEsAStatisztikaAlapvonalai/FerenciTamas_AValoszinusegszamitasEsAStatisztikaAlapvonalai.pdf
+    url: https://ferenci-tamas.github.io/valoszinusegszamitas-statisztika/ferenci-tamas-valoszinusegszamitas-statisztika.pdf
   - name: EPUB
-    url: https://tamas-ferenci.github.io/FerenciTamas_AValoszinusegszamitasEsAStatisztikaAlapvonalai/FerenciTamas_AValoszinusegszamitasEsAStatisztikaAlapvonalai.epub
+    url: https://ferenci-tamas.github.io/valoszinusegszamitas-statisztika/ferenci-tamas-valoszinusegszamitas-statisztika.epub
 
 slides: ""
 weight: -70
