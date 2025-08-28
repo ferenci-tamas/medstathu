@@ -3,20 +3,20 @@ title: The prognostic value of immediate post-TAVI hemodynamic evaluation is sup
   to aortography and transoesophageal echocardiography in predicting patient survival
 authors:
 - Gábor Dékány
-- Geza Fontos
+- Géza Fontos
 - Sai Satish
-- Gergely Szabo
+- Gergely Szabó
 - Tünde Pintér
 - Zsolt Piróth
-- Marton Vertesaljai
-- Matyas Pal
-- Adrienn Mandzak
-- Zalan Gulyas
+- Márton Vértesaljai
+- Mátyás Pál
+- Adrienn Mandzák
+- Zalán Gulyás
 - Sara Gharehdaghi Khajeh Ghiasi
 - Tamás Ferenci
 - Péter Andréka
 date: '2021-01-01'
-publishDate: '2024-01-29T15:58:19.941552Z'
+publishDate: '2025-08-28T14:33:19.939235Z'
 publication_types:
 - article-journal
 publication: '*INTERNATIONAL JOURNAL OF CARDIOLOGY*'

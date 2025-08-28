@@ -8,7 +8,7 @@ authors:
 - Tamás Kováts
 - Katalin Farkas
 date: '2017-01-01'
-publishDate: '2024-01-29T15:58:20.768748Z'
+publishDate: '2025-08-28T14:33:21.660026Z'
 publication_types:
 - article-journal
 publication: '*KARDIOVASZKULÁRIS PREVENCIÓ ÉS REHABILITÁCIÓ*'

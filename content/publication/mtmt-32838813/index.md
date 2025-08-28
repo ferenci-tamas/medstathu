@@ -10,7 +10,7 @@ authors:
 - Gergely Szakács
 - Dániel András Drexler
 date: '2022-01-01'
-publishDate: '2024-01-29T15:58:19.874632Z'
+publishDate: '2025-08-28T14:33:19.918939Z'
 publication_types:
 - article-journal
 publication: '*COMPLEXITY*'

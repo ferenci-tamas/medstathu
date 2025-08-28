@@ -1,11 +1,13 @@
 ---
 title: A dohányzás hatása a szívinfarktus utáni túlélésre – dohányzási paradoxon Magyarországon?
+  [Effect of smoking on survival after myocardial infarction - smoker's paradox in
+  Hungary?]
 authors:
 - Nedim Márton El-Meouch
 - Tamás Ferenci
 - András Jánosi
 date: '2018-01-01'
-publishDate: '2024-01-29T15:58:20.436735Z'
+publishDate: '2025-08-28T14:33:20.071930Z'
 publication_types:
 - article-journal
 publication: '*ORVOSI HETILAP*'

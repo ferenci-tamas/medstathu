@@ -3,16 +3,16 @@ title: THE IMPACT OF MINIMED (TM) 780G INSULIN PUMP SYSTEM - A SINGLE CENTRE PRO
   STUDY
 authors:
 - G. Kocsis
-- N. Garam
+- Nóra Garam
 - T. Javorfi
 - M. Svebis
 - B. Toth
 - Tamás Ferenci
 - György Eigner
 - L. Barkai
-- László Ákos Kovács
+- L. A. Kovacs
 date: '2023-01-01'
-publishDate: '2024-01-29T15:58:19.725402Z'
+publishDate: '2025-08-28T14:33:19.426024Z'
 publication_types:
 - article-journal
 publication: '*DIABETES TECHNOLOGY AND THERAPEUTICS*'

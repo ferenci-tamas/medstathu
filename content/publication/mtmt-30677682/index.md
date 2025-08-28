@@ -10,7 +10,7 @@ authors:
 - Roland Gasparics
 - Mihály Medvegy
 date: '2019-01-01'
-publishDate: '2024-01-29T15:58:20.398836Z'
+publishDate: '2025-08-28T14:33:21.390449Z'
 publication_types:
 - article-journal
 publication: '*HYPERTONIA ÉS NEPHROLOGIA*'

@@ -20,7 +20,7 @@ authors:
 - Péter Andréka
 - András Jánosi
 date: '2022-01-01'
-publishDate: '2024-01-29T15:58:19.774306Z'
+publishDate: '2025-08-28T14:33:20.700693Z'
 publication_types:
 - article-journal
 publication: '*EUROPEAN HEART JOURNAL - QUALITY OF CARE AND CLINICAL OUTCOMES*'

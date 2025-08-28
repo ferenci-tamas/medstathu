@@ -19,7 +19,7 @@ authors:
 - József Maléth
 - Tamás Molnár
 date: '2018-01-01'
-publishDate: '2024-01-29T15:58:20.461668Z'
+publishDate: '2025-08-28T14:33:20.302610Z'
 publication_types:
 - article-journal
 publication: '*CENTRAL EUROPEAN JOURNAL OF GASTROENTEROLOGY AND HEPATOLOGY / GASZTROENTEROLÓGIAI

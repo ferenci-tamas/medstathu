@@ -4,7 +4,7 @@ title: 'Az empirikus orvosi kutatások pár alapvető kérdése. Okozatiság és
 authors:
 - Tamás Ferenci
 date: '2016-01-01'
-publishDate: '2024-01-29T15:58:20.964227Z'
+publishDate: '2025-08-28T14:33:21.984162Z'
 publication_types:
 - article-journal
 publication: '*IMMUNONKOLÓGIA*'

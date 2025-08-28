@@ -1,6 +1,5 @@
 ---
-title: A thrombocytaaggregáció-gátló kezelés gyakorlata heveny szívinfarktusban [Practice
-  of antiplatelet therapy in acute myocardial infarction]
+title: A thrombocytaaggregáció-gátló kezelés gyakorlata heveny szívinfarktusban
 authors:
 - András Jánosi
 - Tamás Ferenci
@@ -9,7 +8,7 @@ authors:
 - Péter Vajer
 - Péter Andréka
 date: '2022-01-01'
-publishDate: '2024-01-29T15:58:19.841555Z'
+publishDate: '2025-08-28T14:33:19.927572Z'
 publication_types:
 - article-journal
 publication: '*ORVOSI HETILAP*'

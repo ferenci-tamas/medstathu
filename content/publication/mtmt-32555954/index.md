@@ -5,8 +5,8 @@ authors:
 - Mátyás Szigeti
 - Tamás Ferenci
 - Levente Kovács
-date: '2021-01-01'
-publishDate: '2024-01-29T15:58:20.040727Z'
+date: '2023-01-01'
+publishDate: '2025-08-28T14:33:20.177031Z'
 publication_types:
 - article-journal
 publication: '*JOURNAL OF DIABETES SCIENCE AND TECHNOLOGY*'

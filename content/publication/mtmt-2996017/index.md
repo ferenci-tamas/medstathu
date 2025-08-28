@@ -4,7 +4,7 @@ title: 'Országok közti különbségek a védőoltási rendszer fényében: mó
 authors:
 - Tamás Ferenci
 date: '2015-01-01'
-publishDate: '2024-01-29T15:58:21.235936Z'
+publishDate: '2025-08-28T14:33:21.813049Z'
 publication_types:
 - article-journal
 publication: '*GYERMEKORVOS TOVÁBBKÉPZÉS*'

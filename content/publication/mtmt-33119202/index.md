@@ -9,7 +9,7 @@ authors:
 - Gergely Röst
 - Beatrix Oroszi
 date: '2022-01-01'
-publishDate: '2024-01-29T15:58:19.834563Z'
+publishDate: '2025-08-28T14:33:19.865325Z'
 publication_types:
 - article-journal
 publication: '*VACCINES (BASEL)*'

@@ -4,7 +4,7 @@ authors:
 - György Bencskó
 - Tamás Ferenci
 date: '2016-01-01'
-publishDate: '2024-01-29T15:58:21.026060Z'
+publishDate: '2025-08-28T14:33:21.549699Z'
 publication_types:
 - article-journal
 publication: '*EPIDEMIOLOGY AND INFECTION*'

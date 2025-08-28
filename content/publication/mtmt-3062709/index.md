@@ -7,7 +7,7 @@ authors:
 - Ágnes Zorándi
 - Tamás Ferenci
 date: '2016-01-01'
-publishDate: '2024-01-29T15:58:21.063958Z'
+publishDate: '2025-08-28T14:33:22.044294Z'
 publication_types:
 - article-journal
 publication: '*CARDIOLOGIA HUNGARICA*'

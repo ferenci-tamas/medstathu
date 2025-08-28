@@ -17,7 +17,7 @@ authors:
 - Mariann Rutka
 - Tamás Molnár
 date: '2016-01-01'
-publishDate: '2024-01-29T15:58:20.923335Z'
+publishDate: '2025-08-28T14:33:21.590765Z'
 publication_types:
 - article-journal
 publication: '*COGENT MEDICINE*'

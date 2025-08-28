@@ -3,7 +3,7 @@ title: Az orvoslás tévedései, 4. rész. Megfigyeléses vizsgálatok a gyakorl
 authors:
 - Tamás Ferenci
 date: '2018-01-01'
-publishDate: '2024-01-29T15:58:20.499567Z'
+publishDate: '2025-08-28T14:33:21.776001Z'
 publication_types:
 - article-journal
 publication: '*INTERPRESS MAGAZIN*'

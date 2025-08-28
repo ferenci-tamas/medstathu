@@ -4,7 +4,7 @@ authors:
 - Balázs Gyula Kotosz
 - Tamás Ferenci
 date: '2010-01-01'
-publishDate: '2024-01-29T15:58:21.709710Z'
+publishDate: '2025-08-28T14:33:19.609354Z'
 publication_types:
 - article-journal
 publication: '*STATISZTIKAI SZEMLE*'

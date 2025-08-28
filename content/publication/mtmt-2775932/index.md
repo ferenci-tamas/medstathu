@@ -8,7 +8,7 @@ authors:
 - Tamás Ferenci
 - Gábor Simonyi
 date: '2014-01-01'
-publishDate: '2024-01-29T15:58:21.466319Z'
+publishDate: '2025-08-28T14:33:22.151936Z'
 publication_types:
 - paper-conference
 publication: '*A Magyar Hypertonia Társaság XXII. Kongresszusa*'

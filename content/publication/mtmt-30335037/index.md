@@ -20,7 +20,7 @@ authors:
 - József Maléth
 - Tamás Molnár
 date: '2018-01-01'
-publishDate: '2024-01-29T15:58:20.444715Z'
+publishDate: '2025-08-28T14:33:20.224929Z'
 publication_types:
 - article-journal
 publication: '*UNITED EUROPEAN GASTROENTEROLOGY JOURNAL*'

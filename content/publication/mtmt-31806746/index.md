@@ -8,7 +8,7 @@ authors:
 - Tamás Ferenci
 - Gábor Nardai
 date: '2021-01-01'
-publishDate: '2024-01-29T15:58:19.968322Z'
+publishDate: '2025-08-28T14:33:20.839973Z'
 publication_types:
 - article-journal
 publication: '*INJURY: INTERNATIONAL JOURNAL OF THE CARE OF THE INJURED*'

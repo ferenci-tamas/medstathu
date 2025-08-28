@@ -6,7 +6,7 @@ authors:
 - Tamás Ferenci
 - András Szatmári
 date: '2016-01-01'
-publishDate: '2024-01-29T15:58:21.192708Z'
+publishDate: '2025-08-28T14:33:21.993109Z'
 publication_types:
 - paper-conference
 publication: '*A Magyar Perinatológiai Társaság XIV. Kongresszusa*'

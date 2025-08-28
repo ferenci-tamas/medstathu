@@ -5,14 +5,14 @@ title: Evaluation of Isolation Area, Myocardial Injury and Left Atrial Function 
 authors:
 - Krisztián István Kássa
 - Zsófia Nagy
-- Daniel Simkovits
+- Dániel Simkovits
 - Zsuzsanna Kis
 - Tamás Ferenci
 - Zoltan Som
-- Csaba Foldesi
+- Csaba László Földesi
 - Attila Kardos
 date: '2022-01-01'
-publishDate: '2024-01-29T15:58:19.851508Z'
+publishDate: '2025-08-28T14:33:19.832709Z'
 publication_types:
 - article-journal
 publication: '*JOURNAL OF CARDIOVASCULAR DEVELOPMENT AND DISEASE*'

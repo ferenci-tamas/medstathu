@@ -4,7 +4,7 @@ authors:
 - Tamás Ferenci
 - Balázs Gyula Kotosz
 date: '2010-01-01'
-publishDate: '2024-01-29T15:58:21.694749Z'
+publishDate: '2025-08-28T14:33:19.542949Z'
 publication_types:
 - manuscript
 abstract: Egy statisztikai teszt robusztussága azt jelenti, hogy érvényes (valid)

@@ -3,7 +3,7 @@ title: Idősorelemzés
 authors:
 - Tamás Ferenci
 date: '2018-01-01'
-publishDate: '2024-01-29T15:58:20.477626Z'
+publishDate: '2025-08-28T14:33:21.767983Z'
 publication_types:
 - manuscript
 links:

@@ -8,7 +8,7 @@ authors:
 - Levente Kovács
 - Naci Engin Seref
 date: '2018-01-01'
-publishDate: '2024-01-29T15:58:20.612168Z'
+publishDate: '2025-08-28T14:33:21.014908Z'
 publication_types:
 - paper-conference
 publication: '*IEEE 12th International Symposium on Applied Computational Intelligence

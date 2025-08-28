@@ -5,7 +5,7 @@ authors:
 - Endre Kolossváry
 - Levente Kovács
 date: '2018-01-01'
-publishDate: '2024-01-29T15:58:20.640093Z'
+publishDate: '2025-08-28T14:33:21.634046Z'
 publication_types:
 - paper-conference
 publication: '*20th European Conference on Mathematics for Industry*'

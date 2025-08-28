@@ -3,7 +3,7 @@ title: A véletlen és a zavaró változók szerepe a kutatási eredmények magy
 authors:
 - Tamás Ferenci
 date: '2016-01-01'
-publishDate: '2024-01-29T15:58:20.988162Z'
+publishDate: '2025-08-28T14:33:22.018943Z'
 publication_types:
 - manuscript
 links:

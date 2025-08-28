@@ -14,7 +14,7 @@ authors:
 - Zoltán Szepes
 - Tamás Molnár
 date: '2016-01-01'
-publishDate: '2024-01-29T15:58:20.942283Z'
+publishDate: '2025-08-28T14:33:20.312776Z'
 publication_types:
 - article-journal
 publication: '*CENTRAL EUROPEAN JOURNAL OF GASTROENTEROLOGY AND HEPATOLOGY / GASZTROENTEROLÓGIAI

@@ -7,7 +7,7 @@ authors:
 - Ágnes Zorándi
 - Péter Andréka
 date: '2017-01-01'
-publishDate: '2024-01-29T15:58:20.835569Z'
+publishDate: '2025-08-28T14:33:19.985912Z'
 publication_types:
 - article-journal
 publication: '*CARDIOLOGIA HUNGARICA*'

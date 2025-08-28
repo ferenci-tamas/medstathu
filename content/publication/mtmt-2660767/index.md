@@ -5,7 +5,7 @@ authors:
 - Tamás Ferenci
 - Balázs Gyula Kotosz
 date: '2010-01-01'
-publishDate: '2024-01-29T15:58:21.666824Z'
+publishDate: '2025-08-28T14:33:19.444077Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the Challenges for Analysis of the Economy, the Businesses,

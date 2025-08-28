@@ -3,7 +3,7 @@ title: Two Applications of Biostatistics in the Analysis of Pathophysiological P
 authors:
 - Tamás Ferenci
 date: '2013-01-01'
-publishDate: '2024-01-29T15:58:21.524164Z'
+publishDate: '2025-08-28T14:33:20.130995Z'
 publication_types:
 - thesis
 publication: '*Obuda University*'

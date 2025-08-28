@@ -1,0 +1,83 @@
+---
+title: 'A szívinfarktus miatt kezelt betegek sürgősségi ellátása: a panasz kezdetétől
+  az ér megnyitásáig'
+authors:
+- András Jánosi
+- Gábor Csató
+- Tamás Ferenci
+- György Pápai
+- Sándor Guti
+- Péter Vajer
+- Péter Andréka
+date: '2025-01-01'
+publishDate: '2025-08-28T14:33:19.288708Z'
+publication_types:
+- article-journal
+publication: '*ORVOSI HETILAP*'
+doi: 10.1556/650.2025.33315
+abstract: 'Bevezetés: A szívinfarktusos betegek kezelésének eredményességét, életkilátásait
+  jelentősen befolyásolja a teljes ischaemiás idő, amelyet a panasz kezdetétől az
+  ér megnyitásáig számítunk. Célkitűzés: Vizsgálatunkban a teljes ischaemiás idő összetevőinek
+  hosszát elemeztük, és összehasonlítottuk az 5 évvel korábbi vizsgálat eredményeivel.
+  Módszer: 2022. 07. 01. és 2023. 06. 30. közötti időszakban 8705 (4334 [49,8%] STEMI,
+  3428 [39,4%] nő) infarktusos beteget regisztráltunk, akiknél a teljes ischaemiás
+  idő összetevőinek számításához minden adat rendelkezésre állt. Az idők esetén a
+  mediánértéket és a nevezetes kvartiliseket (alsó kavartilis Q1 és felső kvartilis
+  Q3) adtuk meg, előző tanulmányunkhoz hasonlóan. A diagnózist a kórházi kezelés során
+  állapították meg a kezelőorvosok az érvényes kritériumok alapján. Vizsgáltuk a panasz
+  kezdetétől a mentőszolgálat értesítéséig eltelt időt (a beteg késlekedése), a mentő
+  helyszínre érkezésének (M1) és a helyszíni ellátás (M2) idejét, valamint a helyszínről
+  a kórházi felvételéig eltelt időt (M3). A kórházi ellátás értékelésénél a felvétel
+  és az ér megnyitása között eltelt időt („ajtó–tű idő”) adtuk meg. Az adatokat országos
+  és megyei bontásban is megadtuk. Eredmények: STEMI-betegeknél országosan a betegek
+  késésének mediánértéke 140 perc (Q1: 51; Q3: 458) volt. A mentő helyszínre érkezési
+  idejének mediánértéke 13,2 perc (Q1: 8,0; Q3: 21,1), a helyszíni ellátás idejének
+  mediánértéke 25,5 perc (Q1: 17,6; Q3: 34,9), a helyszínről a kórházba érkezés idejének
+  mediánértéke 31,0 perc (Q1: 19,5; Q3: 43,7) volt. A helyszínre érkezés tartománya
+  8,8–17,9 perc között változott a különböző megyékben. STEMI-betegeknél a medián
+  ajtó–tű idő országosan 51,5 perc (Q1: 28,7; Q3: 121,7) volt. Az NSTEMI-csoportban
+  a betegek késlekedésének mediánértéke 373 perc (Q1: 106; Q3: 1184), a helyszínre
+  érkezési idő 14,2 perc (Q1: 8,5; Q3: 24,8) volt. STEMI esetén a betegek késlekedése
+  – a korábbival összehasonlítva – közel 40 perccel nőtt (101 vs. 140 perc), a mentő
+  helyszínre érkezésének mediánértéke (13,0 vs. 13,2 perc) érdemben nem változott.
+  Az ajtó–tű idő a jelen vizsgálatban közel 15 perccel volt hosszabb, mint korábban
+  (37,0 vs. 51,5 perc). A STEMI-betegcsoportban a kezelések 4,1%-ában 2 órán belül,
+  38,3%-ában 4 órán belül került sor az ér megnyitására. Következtetés: A teljes ischaemiás
+  idő tekintetében a betegek késlekedése a meghatározó tényező, emiatt a kezelések
+  jelentős részében nem az optimális időben került sor a revascularisatióra. | Introduction:
+  The effectiveness of the treatment of patients with myocardial infarction and their
+  life prospects are significantly influenced by the total ischemic time, which is
+  calculated from the onset of the complaint to the opening of the vessel. Objective:
+  In our study, we analyzed the length of the components of the total ischemic time
+  and compared it with the results of the study five years earlier. Method: We analyzed
+  the data of 8705 patients treated for acute myocardial infarction registered between
+  01. 07. 2022 and 30. 06. 2023 (4334 [49.8%] STEMI, 3428 [39.4%] women), for whom
+  all data were available for the calculation of each time interval. In the case of
+  times, the median values and notable quartiles (lower quartile, Q1 and upper quartile,
+  Q3) were given, similarly to our previous study. The diagnosis was established during
+  hospitaliza tion, based on the valid criteria. We examined patient delay, i.e.,
+  the time elapsing from the complaint to the notification of the ambulance service,
+  from the notification to the arrival at the scene, and from the scene to the arrival
+  at the hospital. During hospital care, we examined the time between the admission
+  of the patient and the opening of the vessel (doortoneedle time). The data were
+  also provided in national and county breakdowns. Results: The median patient delay
+  for STEMI patients nationwide was 140 minutes (Q1: 51; Q3: 458). The median ambulance
+  arrival time was 13.2 minutes (Q1: 8.0; Q3: 21.1), the median onsite care time was
+  25.5 minutes (Q1: 17.6; Q3: 34.9), and the median onsite to hospital time was 31.0
+  minutes (Q1: 19.5; Q3: 43.7). The range of ar rival time per county was 8.8–17.9
+  minutes. The median doortoneedle time for STEMI patients nationwide was 51.5 minutes
+  (Q1: 28.7; Q3: 121.7). In the NSTEMI group, the median patient delay was 373 minutes
+  (Q1: 106; Q3: 1184), and the time to arrival at the scene was 14.2 minutes (Q1:
+  8.5; Q3: 24.8). In the case of STEMI, the patient delay increased by almost 40 minutes
+  compared to the previous period (101 vs. 140 minutes), and the median time to arrival
+  of the ambulance at the scene (13.0 vs. 13.2 minutes) did not change significantly.
+  The doortoneedle time in the present study was almost by 15 minutes longer than
+  before (37.0 vs. 51.5 minutes). In the STEMI group, the vessel was opened within
+  2 hours in 4.1% of the patients and within 4 hours in 38.3% of the patients. Conclusion:
+  The patient’s delay is the determining factor in terms of total ischemic time, therefore,
+  in a significant proportion of treatments, revascularization did not take place
+  at the optimal time.'
+links:
+- name: URL
+  url: https://m2.mtmt.hu/api/publication/36206141
+---

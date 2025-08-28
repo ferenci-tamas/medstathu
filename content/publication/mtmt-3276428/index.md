@@ -4,7 +4,7 @@ title: Nézd és mondd!. avagy mi köze számok felolvasásának 71-ed fokú egy
 authors:
 - Tamás Ferenci
 date: '2017-01-01'
-publishDate: '2024-01-29T15:58:20.697937Z'
+publishDate: '2025-08-28T14:33:21.932818Z'
 publication_types:
 - article-journal
 publication: '*ÉRINTŐ : ELEKTRONIKUS MATEMATIKAI LAPOK*'

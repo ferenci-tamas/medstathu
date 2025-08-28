@@ -16,7 +16,7 @@ authors:
 - Rosalinde K.E. Poortvliet
 - Sven Streit
 date: '2022-01-01'
-publishDate: '2024-01-29T15:58:19.918480Z'
+publishDate: '2025-08-28T14:33:20.197593Z'
 publication_types:
 - article-journal
 publication: '*HYPERTONIA ÉS NEPHROLOGIA*'

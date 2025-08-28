@@ -8,7 +8,7 @@ authors:
 - Sándor Balogh
 - M Medvegy
 date: '2019-01-01'
-publishDate: '2024-01-29T15:58:20.391855Z'
+publishDate: '2025-08-28T14:33:21.219670Z'
 publication_types:
 - article-journal
 publication: '*EUROPEAN HEART JOURNAL*'

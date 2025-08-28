@@ -8,7 +8,7 @@ authors:
 - László Szilágyi
 - Zoltán Benyó
 date: '2011-01-01'
-publishDate: '2024-01-29T15:58:21.628935Z'
+publishDate: '2025-08-28T14:33:21.434267Z'
 publication_types:
 - paper-conference
 publication: '*MACRo 2011 – 3d International Conference on Recent Achievements in

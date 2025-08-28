@@ -17,7 +17,7 @@ authors:
 - Zoltán Szepes
 - Tamás Molnár
 date: '2017-01-01'
-publishDate: '2024-01-29T15:58:20.688962Z'
+publishDate: '2025-08-28T14:33:20.673815Z'
 publication_types:
 - article-journal
 publication: '*EXPERT OPINION ON BIOLOGICAL THERAPY*'

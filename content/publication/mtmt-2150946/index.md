@@ -6,7 +6,7 @@ authors:
 - Adalbert Kovács
 - Levente Kovács
 date: '2011-01-01'
-publishDate: '2024-01-29T15:58:21.636904Z'
+publishDate: '2025-08-28T14:33:19.581061Z'
 publication_types:
 - article-journal
 publication: '*BULETINUL STIINTIFIC AL UNIVERSITATII POLITEHNICA DIN TIMISOARA ROMANIA

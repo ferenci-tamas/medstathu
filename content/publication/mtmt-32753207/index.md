@@ -3,7 +3,7 @@ title: The Author Replies
 authors:
 - Tamás Ferenci
 date: '2022-01-01'
-publishDate: '2024-01-29T15:58:19.807624Z'
+publishDate: '2025-08-28T14:33:20.929610Z'
 publication_types:
 - article-journal
 publication: '*EUROPEAN JOURNAL OF EPIDEMIOLOGY*'

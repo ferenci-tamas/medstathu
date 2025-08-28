@@ -14,7 +14,7 @@ authors:
 - Zoltán Szakács
 - Péter Torzsa
 date: '2017-01-01'
-publishDate: '2024-01-29T15:58:20.656052Z'
+publishDate: '2025-08-28T14:33:19.617575Z'
 publication_types:
 - article-journal
 publication: '*IDEGGYOGYASZATI SZEMLE / CLINICAL NEUROSCIENCE*'

@@ -6,7 +6,7 @@ authors:
 - Tamás Kováts
 - Zoltán Nagy
 date: '2018-01-01'
-publishDate: '2024-01-29T15:58:20.626130Z'
+publishDate: '2025-08-28T14:33:21.098405Z'
 publication_types:
 - paper-conference
 publication: '*Orvosi Informatika 2018.*'

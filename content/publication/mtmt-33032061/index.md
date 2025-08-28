@@ -10,7 +10,7 @@ authors:
 - Tamás Ferenci
 - Szimonetta Lohner
 date: '2022-01-01'
-publishDate: '2024-01-29T15:58:19.782304Z'
+publishDate: '2025-08-28T14:33:20.032621Z'
 publication_types:
 - article-journal
 publication: '*LANCET CHILD & ADOLESCENT HEALTH*'
@@ -58,6 +58,8 @@ abstract: Appropriate feeding of infants and young children is essential for hea
   of complementary food fortification should be further investigated in low-income
   and middle-income countries, but should also be assessed in high-income countries,
   and in regions where malaria is not endemic.WHO.
+tags:
+- '[Meta-analysis]'
 links:
 - name: URL
   url: https://m2.mtmt.hu/api/publication/33032061

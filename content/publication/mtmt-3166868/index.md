@@ -1,11 +1,11 @@
 ---
 title: 'Infectious Hospital Agents: an individual-based simulation framework'
 authors:
-- Pethes R
+- R Pethes
 - Tamás Ferenci
 - Levente Kovács
 date: '2016-01-01'
-publishDate: '2024-01-29T15:58:21.118812Z'
+publishDate: '2025-08-28T14:33:20.168101Z'
 publication_types:
 - paper-conference
 publication: '*2016 IEEE INTERNATIONAL CONFERENCE ON SYSTEMS, MAN, AND CYBERNETICS

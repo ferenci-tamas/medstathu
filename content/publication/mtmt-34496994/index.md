@@ -1,0 +1,50 @@
+---
+title: The metabolic effect of Momordica charantia cannot be determined based on the
+  available clinical evidence. a systematic review and meta-analysis of randomized
+  clinical trials
+authors:
+- Eszter Laczkó-Zöld
+- Boglárka Csupor-Löffler
+- Edina-Blanka Kolcsár
+- Tamás Ferenci
+- Monica Nan
+- Barbara Tóth
+- Dezső Csupor
+date: '2024-01-01'
+publishDate: '2025-08-28T14:33:19.391295Z'
+publication_types:
+- article-journal
+publication: '*FRONTIERS IN NUTRITION*'
+doi: 10.3389/fnut.2023.1200801
+abstract: 'Several studies have shown that Momordica charantia L. (Cucurbitaceae,
+  bitter melon) has beneficial effects on metabolic syndrome (MetS) parameters and
+  exerts antidiabetic, anti-hyperlipidemic, and anti-obesity activities. Since the
+  findings of these studies are contradictory, the goal of this systematic review
+  and meta-analysis was to assess the efficacy of bitter melon in the treatment of
+  metabolic syndrome, with special emphasis on the anti-diabetic effect. Embase, Cochrane,
+  PubMed, and Web of Science databases were searched for randomized controlled human
+  trials (RCTs). The meta-analysis was reported according to the PRISMA statement.
+  The primary outcomes of the review are body weight, BMI, fasting blood glucose,
+  glycated hemoglobin A1c, systolic blood pressure, diastolic blood pressure, serum
+  triglyceride, HDL, LDL, and total cholesterol levels. Nine studies were included
+  in the meta-analysis with 414 patients in total and 4–16 weeks of follow-up. In
+  case of the meta-analysis of change scores, no significant effect could be observed
+  for bitter melon treatment over placebo on fasting blood glucose level (MD = −0.03;
+  95% CI: −0.38 to 0.31; I 2 = 34%), HbA1c level (MD = −0.12; 95% CI: −0.35 to 0.11;
+  I 2 = 56%), HDL (MD = −0.04; 95% CI: −0.17 to 0.09; I 2 = 66%), LDL (MD = −0.10;
+  95% CI: −0.28 to 0.08; I 2 = 37%), total cholesterol (MD = −0.04; 95% CI: −0.17
+  to 0.09; I 2 = 66%,), body weight (MD = −1.00; 95% CI: −2.59–0.59; I 2 = 97%), BMI
+  (MD = −0.42; 95% CI: −0.99–0.14; I 2 = 95%), systolic blood pressure (MD = 1.01;
+  95% CI: −1.07–3.09; I 2 = 0%) and diastolic blood pressure levels (MD = 0.24; 95%
+  CI: −1.04–1.53; I 2 = 0%). Momordica treatment was not associated with a notable
+  change in ALT, AST, and creatinine levels compared to the placebo, which supports
+  the safety of this plant. However, the power was overall low and the meta-analyzed
+  studies were also too short to reliably detect long-term metabolic effects. This
+  highlights the need for additional research into this plant in carefully planned
+  clinical trials of longer duration.'
+tags:
+- '[Meta-analysis]'
+links:
+- name: URL
+  url: https://m2.mtmt.hu/api/publication/34496994
+---

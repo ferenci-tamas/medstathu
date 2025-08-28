@@ -5,7 +5,7 @@ authors:
 - Gábor Simonyi
 - Tamás Ferenci
 date: '2016-01-01'
-publishDate: '2024-01-29T15:58:21.156803Z'
+publishDate: '2025-08-28T14:33:21.273289Z'
 publication_types:
 - article-journal
 publication: '*JOURNAL OF HYPERTENSION*'

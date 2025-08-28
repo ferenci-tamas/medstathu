@@ -1,9 +1,11 @@
 ---
-title: Szívinfarktust túlélt betegek terápiahűsége a másodlagos megelőzés szempontjából
-  fontos gyógyszeres kezelésekhez
+title: 'Szívinfarktust túlélt betegek terápiahűsége a másodlagos megelőzés szempontjából
+  fontos gyógyszeres kezelésekhez [Adherence to medication after myocardial infarction
+  and its impact on outcome: a registry-based analysis from the Hungarian Myocardial
+  Infarction Registry]'
 authors:
 - András Jánosi
-- P Ofner
+- Péter Ofner
 - Zoltán Kiss
 - L Kiss
 - Róbert Gábor Kiss
@@ -13,7 +15,7 @@ authors:
 - Gábor Veress
 - Tamás Ferenci
 date: '2017-01-01'
-publishDate: '2024-01-29T15:58:20.758774Z'
+publishDate: '2025-08-28T14:33:19.804593Z'
 publication_types:
 - article-journal
 publication: '*ORVOSI HETILAP*'

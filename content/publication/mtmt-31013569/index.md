@@ -6,7 +6,7 @@ authors:
 - Tamás Ferenci
 - Gabriel Inalegwu Iklaga
 date: '2019-01-01'
-publishDate: '2024-01-29T15:58:20.369915Z'
+publishDate: '2025-08-28T14:33:21.193973Z'
 publication_types:
 - paper-conference
 publication: '*IEEE Joint 19th International Symposium on Computational Intelligence

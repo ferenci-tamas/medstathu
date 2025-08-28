@@ -6,7 +6,7 @@ authors:
 - Anna Körner
 - Levente Kovács
 date: '2015-01-01'
-publishDate: '2024-01-29T15:58:21.417449Z'
+publishDate: '2025-08-28T14:33:21.256597Z'
 publication_types:
 - paper-conference
 publication: '*First European Biomedical Engineering Conference for Young Investigators*'

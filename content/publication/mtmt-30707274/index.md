@@ -8,7 +8,7 @@ authors:
 - Levente Kovács
 - András Jánosi
 date: '2019-01-01'
-publishDate: '2024-01-29T15:58:20.384875Z'
+publishDate: '2025-08-28T14:33:21.239040Z'
 publication_types:
 - paper-conference
 publication: '*SACI 2019 : IEEE 13th International Symposium on Applied Computational

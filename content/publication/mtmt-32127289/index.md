@@ -8,7 +8,7 @@ authors:
 - Tamás Ferenci
 - Attila Kardos
 date: '2021-01-01'
-publishDate: '2024-01-29T15:58:20.005857Z'
+publishDate: '2025-08-28T14:33:19.652839Z'
 publication_types:
 - article-journal
 publication: '*EUROPEAN JOURNAL OF PEDIATRICS*'

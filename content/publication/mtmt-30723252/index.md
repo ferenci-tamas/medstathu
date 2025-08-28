@@ -4,7 +4,7 @@ title: Klasszikus (?) statisztika vs. (?) gépi tanulás. Egy klinikai biostatis
 authors:
 - Tamás Ferenci
 date: '2019-01-01'
-publishDate: '2024-01-29T15:58:20.287106Z'
+publishDate: '2025-08-28T14:33:21.741188Z'
 publication_types:
 - manuscript
 links:

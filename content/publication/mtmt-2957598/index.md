@@ -6,11 +6,10 @@ authors:
 - Dániel András Drexler
 - Levente Kovács
 date: '2015-01-01'
-publishDate: '2024-01-29T15:58:21.285803Z'
+publishDate: '2025-08-28T14:33:21.506433Z'
 publication_types:
 - paper-conference
-publication: '*2015 IEEE INTERNATIONAL CONFERENCE ON SYSTEMS, MAN, AND CYBERNETICS
-  (SMC 2015): BIG DATA ANALYTICS FOR HUMAN-CENTRIC SYSTEMS*'
+publication: '*2015 IEEE International Conference on Systems, Man, and Cybernetics*'
 doi: 10.1109/SMC.2015.434
 tags:
 - IDENTIFICATION; tumor growth; bevacizumab; C38 colon adenocarcinoma; mixed model

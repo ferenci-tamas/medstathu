@@ -9,7 +9,7 @@ authors:
 - Katalin Farkas
 - Zoltán Járai
 date: '2020-01-01'
-publishDate: '2024-01-29T15:58:20.144510Z'
+publishDate: '2025-08-28T14:33:20.858452Z'
 publication_types:
 - article-journal
 publication: '*VASA: ZEITSCHRIFT FUR GEFAESSKRANKHEITEN / JOURNAL OF VASCULAR DISEASES*'

@@ -9,7 +9,7 @@ authors:
 - András Komócsi
 - Péter Andréka
 date: '2021-01-01'
-publishDate: '2024-01-29T15:58:19.988884Z'
+publishDate: '2025-08-28T14:33:19.781072Z'
 publication_types:
 - article-journal
 publication: '*ORVOSI HETILAP*'

@@ -1,9 +1,10 @@
 ---
 title: A kórházi felvétel idején rögzített EKG jelentősége a szívinfarktus miatt kezelt
-  betegek prognózisának meghatározásában
+  betegek prognózisának meghatározásában [The significance of ECG recorded at hospitalization
+  in determining the prognosis of patients treated with myocardial infarction]
 authors:
 - András Jánosi
-- P Ofner
+- Péter Ofner
 - János Tomcsányi
 - György Müller
 - R Hável
@@ -11,7 +12,7 @@ authors:
 - T Váradi
 - Tamás Ferenci
 date: '2018-01-01'
-publishDate: '2024-01-29T15:58:20.593219Z'
+publishDate: '2025-08-28T14:33:20.062793Z'
 publication_types:
 - article-journal
 publication: '*ORVOSI HETILAP*'

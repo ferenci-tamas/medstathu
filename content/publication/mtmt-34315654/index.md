@@ -16,7 +16,7 @@ authors:
 - K.E. Poortvliet Rosalinde
 - Streit Sven
 date: '2023-01-01'
-publishDate: '2024-01-29T15:58:19.766343Z'
+publishDate: '2025-08-28T14:33:20.003692Z'
 publication_types:
 - article-journal
 publication: '*MEDICAL DIGEST PREVENCIÓ*'

@@ -9,7 +9,7 @@ authors:
 - Jarai Z.
 - Farkas K.
 date: '2015-01-01'
-publishDate: '2024-01-29T15:58:21.221631Z'
+publishDate: '2025-08-28T14:33:21.684298Z'
 publication_types:
 - article-journal
 publication: '*EUROPEAN HEART JOURNAL*'

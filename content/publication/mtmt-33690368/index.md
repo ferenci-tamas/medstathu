@@ -6,8 +6,8 @@ authors:
 - Tamás Ferenci
 - Gábor Fülöp
 - Zsolt Piróth
-date: '2023-01-01'
-publishDate: '2024-01-29T15:58:19.678192Z'
+date: '2024-01-01'
+publishDate: '2025-08-28T14:33:19.373818Z'
 publication_types:
 - article-journal
 publication: '*CARDIOVASCULAR DRUGS AND THERAPY*'

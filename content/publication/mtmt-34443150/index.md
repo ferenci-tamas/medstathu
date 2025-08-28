@@ -13,7 +13,7 @@ authors:
 - Tamás Ferenci
 - Szimonetta Lohner
 date: '2023-01-01'
-publishDate: '2024-01-29T15:58:19.757335Z'
+publishDate: '2025-08-28T14:33:19.843044Z'
 publication_types:
 - article-journal
 publication: '*NUTRIENTS*'

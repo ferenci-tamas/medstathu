@@ -7,7 +7,7 @@ authors:
 - Mihály Medvegy
 - Ervin Finta
 date: '2017-01-01'
-publishDate: '2024-01-29T15:58:20.873477Z'
+publishDate: '2025-08-28T14:33:21.923514Z'
 publication_types:
 - article-journal
 publication: '*EUROPEAN HEART JOURNAL*'

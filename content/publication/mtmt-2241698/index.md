@@ -4,7 +4,7 @@ title: A Semmelweis Egyetem 2009. évi TDK-konferenciájára benyújtott dolgoza
 authors:
 - Tamás Ferenci
 date: '2010-01-01'
-publishDate: '2024-01-29T15:58:21.688765Z'
+publishDate: '2025-08-28T14:33:19.499382Z'
 publication_types:
 - manuscript
 links:

@@ -19,7 +19,7 @@ authors:
 - Klaudia Farkas
 - Tamás Molnár
 date: '2020-01-01'
-publishDate: '2024-01-29T15:58:20.048741Z'
+publishDate: '2025-08-28T14:33:21.132445Z'
 publication_types:
 - article-journal
 publication: '*JOURNAL OF CROHNS & COLITIS*'

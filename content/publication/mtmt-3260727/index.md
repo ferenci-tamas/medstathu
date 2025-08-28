@@ -5,7 +5,7 @@ authors:
 - Tamás Ferenci
 - Levente Kovács
 date: '2017-01-01'
-publishDate: '2024-01-29T15:58:20.704935Z'
+publishDate: '2025-08-28T14:33:21.514454Z'
 publication_types:
 - article-journal
 publication: '*PERIODICA POLYTECHNICA-ELECTRICAL ENGINEERING AND COMPUTER SCIENCE*'

@@ -8,7 +8,7 @@ authors:
 - János Tomcsányi
 - Péter Andréka
 date: '2021-01-01'
-publishDate: '2024-01-29T15:58:19.981865Z'
+publishDate: '2025-08-28T14:33:20.908945Z'
 publication_types:
 - article-journal
 publication: '*RESUSCITATION PLUS*'

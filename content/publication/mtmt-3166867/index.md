@@ -6,7 +6,7 @@ authors:
 - Johanna Sápi
 - Levente Kovács
 date: '2016-01-01'
-publishDate: '2024-01-29T15:58:21.199688Z'
+publishDate: '2025-08-28T14:33:21.310798Z'
 publication_types:
 - paper-conference
 publication: '*2016 IEEE INTERNATIONAL CONFERENCE ON SYSTEMS, MAN, AND CYBERNETICS

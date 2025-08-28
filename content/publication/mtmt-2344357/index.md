@@ -12,7 +12,7 @@ authors:
 - Miklós Kozlovszky
 - Zoltán Sápi
 date: '2013-01-01'
-publishDate: '2024-01-29T15:58:21.539124Z'
+publishDate: '2025-08-28T14:33:21.380311Z'
 publication_types:
 - paper-conference
 publication: '*INES 2013 – 17th International Conference on Intelligent Engineering

@@ -7,7 +7,7 @@ authors:
 - Antal Czinner
 - Zoltán Benyó
 date: '2009-01-01'
-publishDate: '2024-01-29T15:58:21.716690Z'
+publishDate: '2025-08-28T14:33:20.686405Z'
 publication_types:
 - paper-conference
 publication: '*A Magyar Gyermekorvosok Társasága és a Magyar Diabétesz Társaság XXVI.

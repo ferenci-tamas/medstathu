@@ -11,7 +11,7 @@ authors:
 - Gábor Menyhei
 - K. Farkas
 date: '2019-01-01'
-publishDate: '2024-01-29T15:58:20.335007Z'
+publishDate: '2025-08-28T14:33:20.958797Z'
 publication_types:
 - article-journal
 publication: '*EUROPEAN JOURNAL OF VASCULAR AND ENDOVASCULAR SURGERY*'

@@ -4,7 +4,7 @@ title: Kiskorú magyar populáció obesitassal összefüggő paramétereinek bio
 authors:
 - Tamás Ferenci
 date: '2009-01-01'
-publishDate: '2024-01-29T15:58:21.731650Z'
+publishDate: '2025-08-28T14:33:19.490540Z'
 publication_types:
 - manuscript
 links:

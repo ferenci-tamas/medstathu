@@ -1,6 +1,6 @@
 ---
-title: Ankle Brachial Index is a strong predictor of mortality in hypertensive patients.
-  results of a five-year follow-up study
+title: 'Ankle Brachial Index is a strong predictor of mortality in hypertensive patients:
+  results of a five-year follow-up study'
 authors:
 - Katalin Farkas
 - Endre Kolossváry
@@ -8,8 +8,8 @@ authors:
 - András Paksy
 - István Kiss
 - Zoltán Járai
-date: '2023-01-01'
-publishDate: '2024-01-29T15:58:19.688166Z'
+date: '2022-01-01'
+publishDate: '2025-08-28T14:33:19.338573Z'
 publication_types:
 - article-journal
 publication: '*INTERNATIONAL ANGIOLOGY*'

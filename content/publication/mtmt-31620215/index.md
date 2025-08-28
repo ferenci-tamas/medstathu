@@ -6,7 +6,7 @@ authors:
 - Tamás Ferenci
 - Levente Kovács
 date: '2020-01-01'
-publishDate: '2024-01-29T15:58:20.197346Z'
+publishDate: '2025-08-28T14:33:21.370449Z'
 publication_types:
 - paper-conference
 publication: '*2020 IEEE 15th International Conference of System of Systems Engineering

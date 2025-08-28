@@ -3,7 +3,7 @@ title: 'Védőoltások a gyakorlatban: hatások, mellékhatások, döntések II.
 authors:
 - Tamás Ferenci
 date: '2015-01-01'
-publishDate: '2024-01-29T15:58:21.250896Z'
+publishDate: '2025-08-28T14:33:21.803715Z'
 publication_types:
 - article-journal
 publication: '*GYERMEKGYÓGYÁSZATI TOVÁBBKÉPZŐ SZEMLE*'

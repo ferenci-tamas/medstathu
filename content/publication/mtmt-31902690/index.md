@@ -20,7 +20,7 @@ authors:
 - József Maléth
 - Klaudia Farkas
 date: '2021-01-01'
-publishDate: '2024-01-29T15:58:19.998856Z'
+publishDate: '2025-08-28T14:33:20.206814Z'
 publication_types:
 - article-journal
 publication: '*EXPERT OPINION ON BIOLOGICAL THERAPY*'

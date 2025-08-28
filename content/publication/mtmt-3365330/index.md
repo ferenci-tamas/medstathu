@@ -3,7 +3,7 @@ title: Hálózatok a fertőzések ellen. Gyógyító számok, 4. rész
 authors:
 - Tamás Ferenci
 date: '2018-01-01'
-publishDate: '2024-01-29T15:58:20.549335Z'
+publishDate: '2025-08-28T14:33:21.888444Z'
 publication_types:
 - article-journal
 publication: '*INTERPRESS MAGAZIN*'

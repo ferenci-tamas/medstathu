@@ -7,7 +7,7 @@ authors:
 - Alföldi Sándor
 - Csaba Farsang
 date: '2016-01-01'
-publishDate: '2024-01-29T15:58:21.019079Z'
+publishDate: '2025-08-28T14:33:19.684873Z'
 publication_types:
 - article-journal
 publication: '*JOURNAL OF INTERNATIONAL MEDICAL RESEARCH*'

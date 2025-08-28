@@ -6,7 +6,7 @@ authors:
 - Tamás Ferenci
 - Tamás Kováts
 date: '2019-01-01'
-publishDate: '2024-01-29T15:58:20.342025Z'
+publishDate: '2025-08-28T14:33:20.948117Z'
 publication_types:
 - article-journal
 publication: '*VASA: ZEITSCHRIFT FUR GEFAESSKRANKHEITEN / JOURNAL OF VASCULAR DISEASES*'

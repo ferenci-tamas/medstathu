@@ -9,7 +9,7 @@ authors:
 - M. D. Griffiths
 - Zsolt Demetrovics
 date: '2023-01-01'
-publishDate: '2024-01-29T15:58:19.669218Z'
+publishDate: '2025-08-28T14:33:20.022397Z'
 publication_types:
 - article-journal
 publication: '*BIOLOGINĖ PSICHIATRIJA IR PSICHOFARMAKOLOGIJA / BIOLOGICAL PSYCHIATRY

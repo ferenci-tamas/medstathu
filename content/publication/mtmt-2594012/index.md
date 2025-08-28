@@ -7,15 +7,15 @@ authors:
 - Tamás Ferenci
 - Péter Szalay
 - József Klespitz
-- Kurtán B
+- B Kurtán
 - Miklós Kozlovszky
 - Dániel András Drexler
-- Pausits P
+- P Pausits
 - István Harmati
 - Zoltán Sápi
 - Imre Rudas
 date: '2014-01-01'
-publishDate: '2024-01-29T15:58:21.488260Z'
+publishDate: '2025-08-28T14:33:20.778988Z'
 publication_types:
 - paper-conference
 publication: '*2014 IEEE 9th International Symposium on Applied Computational Intelligence

@@ -5,7 +5,7 @@ authors:
 - Tamás Ferenci
 - Levente Kovács
 date: '2017-01-01'
-publishDate: '2024-01-29T15:58:20.812632Z'
+publishDate: '2025-08-28T14:33:21.522892Z'
 publication_types:
 - article-journal
 publication: '*ACTA POLYTECHNICA HUNGARICA*'

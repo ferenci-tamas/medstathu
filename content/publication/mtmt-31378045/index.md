@@ -5,7 +5,7 @@ authors:
 - Tamás Ferenci
 - Levente Kovács
 date: '2020-01-01'
-publishDate: '2024-01-29T15:58:20.190367Z'
+publishDate: '2025-08-28T14:33:21.184935Z'
 publication_types:
 - paper-conference
 publication: '*IEEE 14th International Symposium on Applied Computational Intelligence

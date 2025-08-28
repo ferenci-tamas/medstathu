@@ -6,7 +6,7 @@ authors:
 - Levente Kovács
 - Anna Körner
 date: '2018-01-01'
-publishDate: '2024-01-29T15:58:20.633112Z'
+publishDate: '2025-08-28T14:33:20.746096Z'
 publication_types:
 - paper-conference
 publication: '*2018 IEEE INTERNATIONAL CONFERENCE ON AUTOMATION, QUALITY AND TESTING,

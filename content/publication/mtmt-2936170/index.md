@@ -6,11 +6,11 @@ authors:
 - Johanna Sápi
 - György Eigner
 - József Klespitz
-- Szalay P
+- P Szalay
 - Miklós Kozlovszky
-- Rudas I
+- I Rudas
 date: '2015-01-01'
-publishDate: '2024-01-29T15:58:21.322704Z'
+publishDate: '2025-08-28T14:33:20.661716Z'
 publication_types:
 - paper-conference
 publication: '*2015 IEEE 10TH JUBILEE INTERNATIONAL SYMPOSIUM ON APPLIED COMPUTATIONAL

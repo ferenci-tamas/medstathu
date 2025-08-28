@@ -7,7 +7,7 @@ authors:
 - Balázs István Benyó
 - Adalbert Kovács
 date: '2012-01-01'
-publishDate: '2024-01-29T15:58:21.591024Z'
+publishDate: '2025-08-28T14:33:19.464291Z'
 publication_types:
 - paper-conference
 publication: '*5th European Conference of the International Federation for Medical

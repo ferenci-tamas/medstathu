@@ -3,7 +3,7 @@ title: Megjegyzések az adatbányászatról jégkorongcsapatok összeállítása
 authors:
 - Tamás Ferenci
 date: '2017-01-01'
-publishDate: '2024-01-29T15:58:20.734840Z'
+publishDate: '2025-08-28T14:33:21.950006Z'
 publication_types:
 - article-journal
 publication: '*ÉRINTŐ : ELEKTRONIKUS MATEMATIKAI LAPOK*'

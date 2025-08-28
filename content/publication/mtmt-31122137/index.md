@@ -5,7 +5,7 @@ authors:
 - Tamás Ferenci
 - Levente Kovács
 date: '2019-01-01'
-publishDate: '2024-01-29T15:58:20.246251Z'
+publishDate: '2025-08-28T14:33:21.211563Z'
 publication_types:
 - paper-conference
 publication: '*2019 IEEE International Conference on Systems, Man and Cybernetics

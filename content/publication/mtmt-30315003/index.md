@@ -11,7 +11,7 @@ authors:
 - Erzsébet Pálfi
 - Pál Miheller
 date: '2017-01-01'
-publishDate: '2024-01-29T15:58:20.674002Z'
+publishDate: '2025-08-28T14:33:21.414669Z'
 publication_types:
 - article-journal
 publication: '*UNITED EUROPEAN GASTROENTEROLOGY JOURNAL*'
