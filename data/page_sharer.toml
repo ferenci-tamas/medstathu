@@ -2,13 +2,13 @@
 # Documentation: https://docs.hugoblox.com/hugo-tutorials/page-sharer/
 
 [[buttons]]
-  id = "email"
-  url = "mailto:?subject={title}&body={url}"
-  title = "Email"
-  icon_pack = "fas"
-  icon = "envelope"
+  id = "twitter"
+  url = "https://twitter.com/intent/tweet?url={url}&text={title}"
+  title = "Twitter"
+  icon_pack = "fab"
+  icon = "twitter"
   enable = true
-  
+
 [[buttons]]
   id = "facebook"
   url = "https://www.facebook.com/sharer.php?u={url}&t={title}"
@@ -18,11 +18,11 @@
   enable = true
 
 [[buttons]]
-  id = "twitter"
-  url = "https://twitter.com/intent/tweet?url={url}&text={title}"
-  title = "Twitter"
-  icon_pack = "fab"
-  icon = "twitter"
+  id = "email"
+  url = "mailto:?subject={title}&body={url}"
+  title = "Email"
+  icon_pack = "fas"
+  icon = "envelope"
   enable = true
 
 [[buttons]]
@@ -39,7 +39,7 @@
   title = "WhatsApp"
   icon_pack = "fab"
   icon = "whatsapp"
-  enable = false
+  enable = true
 
 [[buttons]]
   id = "weibo"
@@ -47,7 +47,7 @@
   title = "Weibo"
   icon_pack = "fab"
   icon = "weibo"
-  enable = false
+  enable = true
 
 [[buttons]]
   id = "reddit"
@@ -55,7 +55,7 @@
   title = "Reddit"
   icon_pack = "fab"
   icon = "reddit-alien"
-  enable = true
+  enable = false
 
 [[buttons]]
   id = "pinterest"

@@ -21,10 +21,10 @@ marketing:
     description: 'Ferenci Tamás honlapja: biostatisztika, orvosi kutatások kritikus értékelése, tananyagok, esszék, hobbi projektek.'
     twitter: ''
   analytics:
-    google_analytics: 'G-YGBRWXZLM1'
+    google_analytics: ''
     baidu_tongji: ''
     google_tag_manager: ''
-    microsoft_clarity: 'h7uhlm8mdb'    
+    microsoft_clarity: ''
   verification:
     google: ''
     baidu: ''

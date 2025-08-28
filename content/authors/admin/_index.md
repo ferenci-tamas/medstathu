@@ -27,10 +27,10 @@ role: Klinikai biostatisztikus, orvosbiológiai mérnök
 bio: Kutatási területem a biostatisztika, szívügyem az orvosi kutatások módszertanához kapcsolódó ismeretek terjesztése is. A transzparencia és a nyílt tudomány feltétlen híve vagyok.
 
 # Interests to show in About widget
-interests:
-  - Biostatisztika
-  - Orvosi kutatások kritikus értékelése
-  - Statisztika tananyagfejlesztés
+#interests:
+#  - Biostatisztika
+#  - Orvosi kutatások kritikus értékelése
+#  - Statisztika tananyagfejlesztés
 
 # Education to show in About widget
 # education:
@@ -93,20 +93,40 @@ Klinikai biostatisztikus vagyok, abból a fajtából, akinek fontos, hogy ugyana
 
 <hr>
 
-"A valószínűségszámítás nem más...
-{style="text-align: left;"}
+<div class="flex-container">
+    <div class="left-text">
+        <p>"A valószínűségszámítás nem más...</p>
+        <p>...mint számokra átváltott józan ész."</p>
+        <p>(Pierre-Simon de Laplace, 1749-1827)</p>
+    </div>
+    <div class="right-text">
+        <p>"Statisztikával hazudni könnyű...</p>
+        <p>...de statisztika nélkül még könnyebb."</p>
+        <p>(Charles Frederick Mosteller, 1916-2006)</p>
+    </div>
+</div>
 
-...mint számokra átváltott józan ész."
-{style="text-align: left;"}
+<style>
+.flex-container {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+.right-text {
+    text-align: right;
+}
 
-(Pierre-Simon de Laplace, 1749-1827)
-{style="text-align: left;"}
-
-"Statisztikával hazudni könnyű...
-{style="text-align: right;"}
-
-...de statisztika nélkül még könnyebb."
-{style="text-align: right;"}
-
-(Charles Frederick Mosteller, 1916-2006)
-{style="text-align: right;"}
+@media (max-width: 800px) {
+    .flex-container {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+	.left-text {
+        margin-bottom: 50px;
+    }
+    .right-text {
+        text-align: left;
+    }
+}
+</style>
