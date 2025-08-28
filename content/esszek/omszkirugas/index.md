@@ -6,5 +6,5 @@ authors:
 
 publishDate: 2022-08-23T00:00:00
 
-external_link: 'https://github.com/tamas-ferenci/GondolatokAzOMSZVezetoinekKirugasaKapcsan'
+external_link: 'https://github.com/ferenci-tamas/GondolatokAzOMSZVezetoinekKirugasaKapcsan'
 ---

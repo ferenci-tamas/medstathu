@@ -6,5 +6,5 @@ authors:
 
 publishDate: 2022-12-08T00:00:00
 
-external_link: https://github.com/tamas-ferenci/KorhazakTeruletiEllatasiKotelezettsege
+external_link: https://github.com/ferenci-tamas/KorhazakTeruletiEllatasiKotelezettsege
 ---

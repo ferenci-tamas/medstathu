@@ -6,5 +6,5 @@ authors:
 
 publishDate: 2024-01-29T00:00:00
 
-external_link: https://github.com/tamas-ferenci/BudapestiElerhetoseg
+external_link: https://github.com/ferenci-tamas/BudapestiElerhetoseg
 ---

@@ -58,7 +58,7 @@ social:
     link: https://www.youtube.com/@FerenciTamas
   - icon: github
     icon_pack: fab
-    link: https://github.com/tamas-ferenci
+    link: https://github.com/ferenci-tamas
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.com/citations?user=jttf9akAAAAJ
