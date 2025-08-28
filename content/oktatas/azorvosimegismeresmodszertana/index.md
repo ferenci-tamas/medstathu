@@ -11,11 +11,11 @@ external_link: ''
 
 links:
   - name: Elektronikus jegyzet
-    url: https://ferenci-tamas.github.io/FerenciTamas_AzOrvosiMegismeresModszertanaEsAzOrvosiKutatasokKritikusErtekelese/
+    url: https://ferenci-tamas.github.io/orvosi-megismeres-modszertan/
   - name: PDF
-    url: https://ferenci-tamas.github.io/FerenciTamas_AzOrvosiMegismeresModszertanaEsAzOrvosiKutatasokKritikusErtekelese/FerenciTamas_AzOrvosiMegismeresModszertanaEsAzOrvosiKutatasokKritikusErtekelese.pdf
+    url: https://ferenci-tamas.github.io/orvosi-megismeres-modszertan/ferenci-tamas-orvosi-megismeres-modszertan.pdf
   - name: EPUB
-    url: https://ferenci-tamas.github.io/FerenciTamas_AzOrvosiMegismeresModszertanaEsAzOrvosiKutatasokKritikusErtekelese/FerenciTamas_AzOrvosiMegismeresModszertanaEsAzOrvosiKutatasokKritikusErtekelese.epub
+    url: https://ferenci-tamas.github.io/orvosi-megismeres-modszertan/ferenci-tamas-orvosi-megismeres-modszertan.epub
 
 url_code: ''
 url_pdf: ''
