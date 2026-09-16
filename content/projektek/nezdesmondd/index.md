@@ -8,5 +8,5 @@ publishDate: 2017-09-01T00:00:00
 
 links:
 - type: site
-  url: 'https://ematlap.hu/tudomany-tortenet-2017-09/544-nezd-es-mondd-2'
+  url: 'https://ematlap.hu/tudomany-tortenet-mi-is/nezd-es-mondd/'
 ---
