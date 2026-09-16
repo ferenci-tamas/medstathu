@@ -17,6 +17,5 @@ links:
   - name: EPUB
     url: https://ferenci-tamas.github.io/simitas-spline/ferenci-tamas-simitas-spline.epub
 
-slides: ""
 weight: -150
 ---

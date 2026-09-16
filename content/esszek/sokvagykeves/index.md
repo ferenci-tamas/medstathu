@@ -6,5 +6,7 @@ authors:
 
 publishDate: 2022-06-01T00:00:00
 
-external_link: 'https://telex.hu/koronavirus/2022/06/01/sok-vagy-keves-46-ezer-covid-halott'
+links:
+- type: site
+  url: 'https://telex.hu/koronavirus/2022/06/01/sok-vagy-keves-46-ezer-covid-halott'
 ---

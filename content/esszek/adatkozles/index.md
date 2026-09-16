@@ -6,5 +6,7 @@ authors:
 
 publishDate: 2021-11-21T00:00:00
 
-external_link: 'https://github.com/ferenci-tamas/GondolatokAJarvanyugyiAdatokKozleserol'
+links:
+- type: site
+  url: 'https://github.com/ferenci-tamas/GondolatokAJarvanyugyiAdatokKozleserol'
 ---

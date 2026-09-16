@@ -6,5 +6,7 @@ authors:
 
 publishDate: 2017-09-01T00:00:00
 
-external_link: https://ematlap.hu/tudomany-tortenet-2017-09/544-nezd-es-mondd-2
+links:
+- type: site
+  url: 'https://ematlap.hu/tudomany-tortenet-2017-09/544-nezd-es-mondd-2'
 ---

@@ -6,5 +6,7 @@ authors:
 
 publishDate: 2022-03-24T00:00:00
 
-external_link: https://research.physcon.uni-obuda.hu/KompartmentalisPK/
+links:
+- type: site
+  url: 'https://research.physcon.uni-obuda.hu/KompartmentalisPK/'
 ---

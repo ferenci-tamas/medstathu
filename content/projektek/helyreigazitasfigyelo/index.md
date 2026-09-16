@@ -6,5 +6,7 @@ authors:
 
 publishDate: 2023-01-20T00:00:00
 
-external_link: https://www.helyreigazitas-figyelo.hu/
+links:
+- type: site
+  url: 'https://www.helyreigazitas-figyelo.hu/'
 ---

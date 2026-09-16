@@ -6,5 +6,7 @@ authors:
 
 publishDate: 2012-12-07T00:00:00
 
-external_link: DiplomaFerenciTamasAlkMatMSc.pdf
+links:
+- type: site
+  url: 'DiplomaFerenciTamasAlkMatMSc.pdf'
 ---

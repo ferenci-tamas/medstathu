@@ -6,5 +6,7 @@ authors:
 
 publishDate: 2023-05-27T00:00:00
 
-external_link: https://telex.hu/szepkilatas/2023/05/27/elso-magyar-teljesitmenytura-kinizsi-szazas
+links:
+- type: site
+  url: 'https://telex.hu/szepkilatas/2023/05/27/elso-magyar-teljesitmenytura-kinizsi-szazas'
 ---

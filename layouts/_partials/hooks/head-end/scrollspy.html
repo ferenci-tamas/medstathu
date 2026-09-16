@@ -1,0 +1,90 @@
+<style>
+  /* Smooth-scroll when jumping to a section via an anchor link */
+  html {
+    scroll-behavior: smooth;
+  }
+
+  /* Offset anchor targets so the sticky navbar doesn't cover section tops */
+  section[id] {
+    scroll-margin-top: calc(var(--navbar-height, 5rem) + 1rem);
+  }
+
+  /* Highlight the nav link for the section currently in view */
+  .navbar .nav-link.nav-active {
+    color: var(--color-primary-700) !important;
+    border-bottom: 2px solid var(--color-primary-700);
+  }
+</style>
+
+<script>
+  (function () {
+    "use strict";
+
+    function initScrollSpy() {
+      var links = Array.prototype.slice.call(
+        document.querySelectorAll('#nav-menu .nav-link[href*="#"]')
+      );
+      if (!links.length) return;
+
+      // Map each in-page section id to its nav link, in document order.
+      var sections = [];
+      links.forEach(function (link) {
+        var hash = link.getAttribute("href").split("#")[1];
+        if (!hash) return;
+        var el = document.getElementById(hash);
+        if (el) sections.push({ id: hash, el: el, link: link });
+      });
+      if (!sections.length) return;
+
+      sections.sort(function (a, b) {
+        return a.el.getBoundingClientRect().top - b.el.getBoundingClientRect().top;
+      });
+
+      function setActive(id) {
+        sections.forEach(function (s) {
+          s.link.classList.toggle("nav-active", s.id === id);
+        });
+      }
+
+      function update() {
+        // Trigger line ~30% down from the top of the viewport.
+        var trigger = window.innerHeight * 0.3;
+        var current = sections[0].id;
+        for (var i = 0; i < sections.length; i++) {
+          if (sections[i].el.getBoundingClientRect().top <= trigger) {
+            current = sections[i].id;
+          } else {
+            break;
+          }
+        }
+        // At the very bottom of the page, force the last section active so a
+        // short trailing section (e.g. contact) can still be highlighted.
+        var scrollBottom = window.scrollY + window.innerHeight;
+        if (scrollBottom >= document.documentElement.scrollHeight - 2) {
+          current = sections[sections.length - 1].id;
+        }
+        setActive(current);
+      }
+
+      var ticking = false;
+      function onScroll() {
+        if (ticking) return;
+        ticking = true;
+        window.requestAnimationFrame(function () {
+          update();
+          ticking = false;
+        });
+      }
+
+      window.addEventListener("scroll", onScroll, { passive: true });
+      window.addEventListener("resize", onScroll);
+      update();
+    }
+
+    if (document.readyState === "loading") {
+      document.addEventListener("DOMContentLoaded", initScrollSpy);
+    } else {
+      initScrollSpy();
+    }
+  })();
+</script>

@@ -19,6 +19,5 @@ links:
   - name: 'Videó'
     url: 'https://www.youtube.com/@FerenciTamas/playlists?view=50&sort=dd&shelf_id=2'
 
-slides: ""
 weight: -100
 ---

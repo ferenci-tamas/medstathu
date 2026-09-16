@@ -1,0 +1,119 @@
+schema: hugoblox/author/v1
+slug: ferenci-tamas
+is_owner: true
+name:
+  display: Ferenci Tamás
+  given: Tamás
+  family: Ferenci
+  alternate: ''  # Example: 王伟
+  pronunciation: ''  # Example: Wáng Wěi
+#  pronouns: he/him
+# postnominals:
+#   - PhD
+#   - MIEEE
+# status:
+#   icon: "☕️"
+role: Klinikai biostatisztikus, orvosbiológiai mérnök
+bio: 'Kutatási területem a biostatisztika, szívügyem az orvosi kutatások módszertanához kapcsolódó ismeretek terjesztése is. A transzparencia és a nyílt tudomány feltétlen híve vagyok.'
+# affiliations:
+#   - name: Meta AI
+#     url: https://ai.meta.com/
+
+links:
+  - icon: at-symbol
+    url: mailto:tamas.ferenci@medstat.hu
+    label: E-mail
+  - icon: brands/youtube
+    url: https://www.youtube.com/@FerenciTamas
+  - icon: brands/github
+    url: https://github.com/ferenci-tamas
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=jttf9akAAAAJ
+  - icon: academicons/mtmt
+    url: https://m2.mtmt.hu/gui2/?type=authors&mode=browse&sel=10036214
+  - icon: academicons/pubmed
+    url: https://pubmed.ncbi.nlm.nih.gov/?term=ferenci+tam%C3%A1s
+  - icon: academicons/scopus
+    url: https://www.scopus.com/authid/detail.uri?authorId=36717738100
+  - icon: academicons/clarivate
+    url: https://www.webofscience.com/wos/author/record/H-4682-2012
+  # - icon: academicons/orcid
+  #   url: https://orcid.org/0000-0001-6791-3080
+  - icon: cv
+    url: FerenciTamasHun.pdf
+
+# interests:
+#   - Large Language Models
+#   - Computer Vision
+#   - Reinforcement Learning
+#   - AI Ethics
+
+# education:
+#   - degree: PhD Computer Science
+#     institution: Stanford University
+#     start: 2015-09-01
+#     end: 2019-06-30
+#     summary: |
+#       Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
+#     button:
+#       text: Download dissertation
+#       url: /resume.pdf
+#       icon: hero/arrow-down-tray
+#   - degree: MS Computer Science
+#     institution: Carnegie Mellon University
+#     start: 2013-09-01
+#     end: 2015-05-31
+#   - degree: BS Computer Science
+#     institution: MIT
+#     start: 2009-09-01
+#     end: 2013-05-31
+
+# experience:
+#   - role: Senior AI Research Scientist
+#     org: Meta AI
+#     start: 2020-01-01
+#     summary: |
+#       Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
+#     button:
+#       text: View portfolio
+#       url: /
+#       icon: hero/arrow-down-tray
+#   - role: AI Research Intern
+#     org: OpenAI
+#     start: 2019-06-01
+#     end: 2019-12-31
+#     summary: |
+#       Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+
+# skills:
+#   - name: Technical Skills
+#     items:
+#       - label: Python
+#         level: 5
+#       - label: Machine Learning
+#         level: 5
+#       - label: Cloud Computing
+#         level: 4
+#   - name: Research & Communication
+#     items:
+#       - label: Academic Writing
+#         level: 5
+#       - label: Conference Presentations
+#         level: 4
+#       - label: Grant Proposals
+#         level: 4
+
+# languages:
+#   - name: English
+#     level: 5
+#     label: Native
+#   - name: Spanish
+#     level: 4
+#     label: Fluent
+
+# awards:
+#   - title: Best Paper Award
+#     awarder: NeurIPS
+#     date: "2022-12-01"
+#     summary: Awarded for groundbreaking work on efficient training of large models.
+#     icon: hero/trophy

@@ -6,5 +6,7 @@ authors:
 
 publishDate: 2018-08-28T00:00:00
 
-external_link: https://research.physcon.uni-obuda.hu/RakregiszterVizualizator/
+links:
+- type: site
+  url: 'https://research.physcon.uni-obuda.hu/RakregiszterVizualizator/'
 ---

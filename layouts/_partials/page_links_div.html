@@ -1,0 +1,11 @@
+{{/* Div wrapper around page links. Hidden if page has no links. */}}
+
+{{ $built := partial "functions/build_links" (dict "page" . "is_list" 0) }}
+{{/* Match page_links.html: `site` links are suppressed there, so don't count
+     them here or we'd render an empty wrapper. */}}
+{{ $built = where $built "type" "!=" "site" }}
+{{ if gt (len $built) 0 }}
+<div class="">
+  {{ partial "page_links" (dict "page" . "is_list" 0) }}
+</div>
+{{ end }}

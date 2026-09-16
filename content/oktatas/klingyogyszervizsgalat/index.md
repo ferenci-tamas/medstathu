@@ -16,6 +16,5 @@ links:
   - name: EPUB
     url: https://ferenci-tamas.github.io/klinikai-gyogyszervizsgalat/ferenci-tamas-klinikai-gyogyszervizsgalat.epub
 
-slides: ""
 weight: -20
 ---

@@ -6,5 +6,7 @@ authors:
 
 publishDate: 2024-12-17T00:00:00
 
-external_link: https://www.tura-mult.hu/
+links:
+- type: site
+  url: 'https://www.tura-mult.hu/'
 ---

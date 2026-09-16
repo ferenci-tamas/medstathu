@@ -16,6 +16,5 @@ links:
   - name: Diasor (lecturenote)
     url: oktatas/FerenciTamas-PublikaciorolKezdoKutatoknak-lecturenote.pdf
 
-slides: ""
 weight: -160
 ---

@@ -18,6 +18,5 @@ links:
   - name: EPUB
     url: https://ferenci-tamas.github.io/valoszinusegszamitas-statisztika/ferenci-tamas-valoszinusegszamitas-statisztika.epub
 
-slides: ""
 weight: -70
 ---

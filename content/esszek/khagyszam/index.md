@@ -6,5 +6,7 @@ authors:
 
 publishDate: 2022-08-05T00:00:00
 
-external_link: 'https://github.com/ferenci-tamas/korhaz-agyszam-betegforgalom-halalozas-egeszsegpolitika'
+links:
+- type: site
+  url: 'https://github.com/ferenci-tamas/korhaz-agyszam-betegforgalom-halalozas-egeszsegpolitika'
 ---

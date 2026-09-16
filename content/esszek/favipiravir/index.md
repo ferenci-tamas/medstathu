@@ -6,5 +6,7 @@ authors:
 
 publishDate: 2022-02-01T00:00:00
 
-external_link: 'https://github.com/ferenci-tamas/GondolatokAFavipiravirHatasossagarolEsATudomanyosVelemenynyilvanitasSzabadsagarol'
+links:
+- type: site
+  url: 'https://github.com/ferenci-tamas/GondolatokAFavipiravirHatasossagarolEsATudomanyosVelemenynyilvanitasSzabadsagarol'
 ---

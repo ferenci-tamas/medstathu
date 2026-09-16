@@ -6,5 +6,7 @@ authors:
 
 publishDate: 2020-12-01T00:00:00
 
-external_link: https://ematlap.hu/gazda-g-sag-2020-13/1029-ferenci-tamas-jozsef-attila
+links:
+- type: site
+  url: 'https://ematlap.hu/gazda-g-sag-2020-13/1029-ferenci-tamas-jozsef-attila'
 ---

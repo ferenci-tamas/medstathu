@@ -1,0 +1,13 @@
+<style>
+  /* Give every second landing-page block a subtle gray background so the
+     sections alternate visually. .hbb-section wraps each `block:` entry
+     defined in content/_index.md. */
+  .hbb-section:nth-of-type(even) {
+    background-color: #f5f5f5;
+  }
+
+  /* Keep the effect readable in dark mode. */
+  .dark .hbb-section:nth-of-type(even) {
+    background-color: rgba(255, 255, 255, 0.04);
+  }
+</style>

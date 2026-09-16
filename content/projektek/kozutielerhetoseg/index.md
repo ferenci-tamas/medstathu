@@ -6,5 +6,7 @@ authors:
 
 publishDate: 2022-11-17T00:00:00
 
-external_link: https://github.com/ferenci-tamas/MagyarorszagKozutiElerhetoseg
+links:
+- type: site
+  url: 'https://github.com/ferenci-tamas/MagyarorszagKozutiElerhetoseg'
 ---
